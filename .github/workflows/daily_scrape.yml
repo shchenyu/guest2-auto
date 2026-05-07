@@ -25,14 +25,10 @@ jobs:
       - name: Create output directory
         run: mkdir -p output
 
-      - name: Run KL Script
-        run: python kl_script.py
 
       - name: Run DBF Script
         run: python dbf_script.py
 
-      - name: Run B67 Script
-        run: python b67_script.py
 
       - name: Commit and Push results
         run: |
