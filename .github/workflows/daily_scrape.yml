@@ -27,8 +27,6 @@ jobs:
       - name: Create output directory
         run: mkdir -p output
 
-      - name: Run DBF Script (ดึงโปรแกรมบอล)
-        run: python dbf_script.py
 
       - name: Run Movie Script (ดึงหนังใหม่ 2026)
         run: python movie_script.py
