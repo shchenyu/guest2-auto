@@ -1,0 +1,12 @@
+{
+  "name": "หนังใหม่ 2026 @ 07/05/2026",
+  "author": "Auto Update",
+  "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
+  "groups": [
+    {
+      "name": "หนังใหม่ 2026 (อัปเดตอัตโนมัติ)",
+      "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
+      "stations": []
+    }
+  ]
+}
