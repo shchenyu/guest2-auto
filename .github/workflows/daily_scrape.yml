@@ -2,7 +2,8 @@ name: Daily Auto Scrape (KL, DBF & B67)
 
 on:
   schedule:
-    # รันทุกวันเวลา 12:00 น. เวลาไทย (05:00 UTC)
+    # รันทุกวันเวลา 12:00 น. เวลาไทย (05:00 UTC) แต่ตั้งเวลาใน cron ไว้ที่ 03:13 UTC 
+    # (หรือ 10:13 น. เวลาไทย) สามารถปรับเปลี่ยนตัวเลข cron ได้ตามต้องการ
     - cron: '13 3 * * *'
   workflow_dispatch: 
 
@@ -11,29 +12,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Create output directory
         run: mkdir -p output
 
-
-      - name: Run DBF Script
+      - name: Run DBF Script (ดึงโปรแกรมบอล)
         run: python dbf_script.py
 
+      - name: Run Movie Script (ดึงหนังใหม่ 2026)
+        run: python movie_script.py
 
       - name: Commit and Push results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add output/*
-          git commit -m "Auto-update matches: $(date)" || echo "No changes to commit"
-          git push
+          
+          # เช็คว่ามีไฟล์เปลี่ยนแปลงหรือไม่ก่อนทำการ commit เพื่อป้องกัน Error
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update matches and movies: $(date)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
