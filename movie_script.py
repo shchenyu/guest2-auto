@@ -1,4 +1,4 @@
-from seleniumwire import webdriver
+from selenium import webdriver # ใช้ selenium ธรรมดา
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -15,33 +15,18 @@ OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 # ================== ตั้งค่า Selenium ==================
 options = Options()
-# เปลี่ยนจาก --headless=new กลับมาใช้ตัวปกติเพื่อความเสถียรกับ selenium-wire
-options.add_argument("--headless") 
+options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--window-size=1920,1080")
 options.add_argument("--mute-audio")
-
-# 🌟 ปิดระบบความปลอดภัยและกราฟิกที่ทำให้ Chrome ปฏิเสธ Proxy บน GitHub Actions
 options.add_argument("--disable-gpu")
-options.add_argument("--disable-software-rasterizer")
-options.add_argument("--disable-web-security")
-options.add_argument("--ignore-certificate-errors")
-options.add_argument("--ignore-ssl-errors")
-options.add_argument("--allow-insecure-localhost")
+
+# 🌟 ท่าไม้ตาย: เปิดการบันทึก Log ของ Network เพื่อดักจับลิงก์เบื้องหลัง (ไม่ต้องง้อ selenium-wire)
+options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
 
 service = Service(ChromeDriverManager().install())
-
-# 🌟 ตั้งค่า selenium-wire เพิ่มเติม
-sw_options = {
-    'verify_ssl': False,
-    'suppress_connection_errors': True,
-    'enable_har': False, # ปิดโหมดเก็บประวัติแบบละเอียดเพื่อประหยัด RAM บน GitHub
-    'connection_timeout': 30 # เพิ่มเวลาเชื่อมต่อ ป้องกันเน็ตเซิร์ฟเวอร์ช้า
-}
-
-driver = webdriver.Chrome(service=service, options=options, seleniumwire_options=sw_options)
-# ตั้งเวลา Time Out ให้หน้าเว็บโหลด
+driver = webdriver.Chrome(service=service, options=options)
 driver.set_page_load_timeout(60)
 
 try:
@@ -71,7 +56,7 @@ try:
         print(f"\n[{idx}/{len(all_movie_links)}] กำลังดึง: {movie_url}")
         try:
             driver.get(movie_url)
-            time.sleep(15) 
+            time.sleep(15) # รอให้วิดีโอและ Network โหลด m3u8 ขึ้นมา
             
             # --- ดึงชื่อหนังและหน้าปก ---
             soup_detail = BeautifulSoup(driver.page_source, "html.parser")
@@ -83,13 +68,28 @@ try:
                 movie_title = img_tag.get("alt", movie_title)
                 movie_image = img_tag.get("src", movie_image)
             
-            # --- ดักจับลิงก์ m3u8 เบื้องหลัง ---
+            # --- 🌟 ดักจับลิงก์ m3u8 จาก Network Logs ของ Chrome โดยตรง ---
             m3u8_url = None
-            for request in driver.requests:
-                if request.response and request.url:
-                    if ".m3u8" in request.url:
-                        m3u8_url = request.url
-                        break
+            logs = driver.get_log("performance") # ดึง log ออกมา (และมันจะเคลียร์ของเก่าให้ด้วยในตัว)
+            
+            for entry in logs:
+                try:
+                    log_data = json.loads(entry["message"])["message"]
+                    
+                    # เช็คตอนที่ Browser เริ่มส่ง Request หรือได้รับ Response
+                    if log_data["method"] in ["Network.requestWillBeSent", "Network.responseReceived"]:
+                        req_url = ""
+                        if "request" in log_data["params"]:
+                            req_url = log_data["params"]["request"]["url"]
+                        elif "response" in log_data["params"]:
+                            req_url = log_data["params"]["response"]["url"]
+                            
+                        # ค้นหาคำว่า .m3u8 ในลิงก์
+                        if ".m3u8" in req_url:
+                            m3u8_url = req_url
+                            break
+                except Exception:
+                    continue # ข้าม error ย่อยๆ ตอนอ่าน json
             
             if m3u8_url:
                 print(f"  -> สำเร็จ: {movie_title}")
@@ -101,9 +101,6 @@ try:
             else:
                 print("  -> ไม่พบลิงก์ m3u8")
                 
-            # เคลียร์ประวัติ Network สำหรับรอบต่อไป (สำคัญมาก)
-            del driver.requests
-            
         except Exception as e:
             print(f"  -> Error เกิดข้อผิดพลาดกับลิงก์นี้: {e}")
 
