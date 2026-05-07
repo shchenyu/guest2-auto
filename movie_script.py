@@ -1,4 +1,4 @@
-from seleniumwire import webdriver # ใช้ seleniumwire ดัก Network
+from seleniumwire import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -15,14 +15,25 @@ OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 # ================== ตั้งค่า Selenium ==================
 options = Options()
-options.add_argument("--headless=new") # รันแบบซ่อนหน้าจอสำหรับ GitHub Actions
+options.add_argument("--headless=new") # รันแบบซ่อนหน้าจอ
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--window-size=1920,1080")
 options.add_argument("--mute-audio")
 
+# 🌟 แก้ปัญหา ERR_CONNECTION_CLOSED และข้ามการตรวจสอบ SSL
+options.add_argument("--ignore-certificate-errors")
+options.add_argument("--ignore-ssl-errors")
+
 service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=options)
+
+# 🌟 ตั้งค่า selenium-wire เพื่อป้องกันสคริปต์หลุดการเชื่อมต่อ
+sw_options = {
+    'verify_ssl': False,
+    'suppress_connection_errors': True
+}
+
+driver = webdriver.Chrome(service=service, options=options, seleniumwire_options=sw_options)
 
 try:
     # ================== 1. เข้าหน้ารวมเพื่อกวาดลิงก์ ==================
@@ -42,19 +53,18 @@ try:
                 all_movie_links.append(a_tag["href"])
                 
     all_movie_links = list(set(all_movie_links))
-    print(f"กวาดลิงก์มาได้: {len(all_movie_links)} เรื่อง")
+    print(f"กวาดลิงก์มาได้ทั้งหมด: {len(all_movie_links)} เรื่อง")
 
     # ================== 2. ดึงข้อมูลทีละเรื่อง ==================
     movies_data = []
     
-    # วนลูป (เพื่อไม่ให้รันนานเกินไปบน GitHub อาจจะลิมิตไว้ที่ 20-30 เรื่อง หรือปล่อยรันหมดก็ได้)
     for idx, movie_url in enumerate(all_movie_links, 1):
-        print(f"[{idx}/{len(all_movie_links)}] กำลังดึง: {movie_url}")
+        print(f"\n[{idx}/{len(all_movie_links)}] กำลังดึง: {movie_url}")
         try:
             driver.get(movie_url)
-            time.sleep(12) # รอวิดีโอและ Network โหลด
+            time.sleep(15) # รอวิดีโอและ Network โหลด (ใช้เวลา 15 วิเพื่อให้ชัวร์ว่า m3u8 เด้งขึ้นมา)
             
-            # ดึงชื่อและหน้าปก
+            # --- ดึงชื่อหนังและหน้าปก ---
             soup_detail = BeautifulSoup(driver.page_source, "html.parser")
             movie_title = "ไม่ทราบชื่อเรื่อง"
             movie_image = "https://via.placeholder.com/150"
@@ -64,7 +74,7 @@ try:
                 movie_title = img_tag.get("alt", movie_title)
                 movie_image = img_tag.get("src", movie_image)
             
-            # ดักจับ m3u8
+            # --- ดักจับลิงก์ m3u8 เบื้องหลัง ---
             m3u8_url = None
             for request in driver.requests:
                 if request.response and request.url:
@@ -82,14 +92,14 @@ try:
             else:
                 print("  -> ไม่พบลิงก์ m3u8")
                 
-            # เคลียร์ Network สำหรับรอบต่อไป
+            # เคลียร์ประวัติ Network สำหรับรอบต่อไป (สำคัญมาก)
             del driver.requests
             
         except Exception as e:
-            print(f"  -> Error: {e}")
+            print(f"  -> Error เกิดข้อผิดพลาดกับลิงก์นี้: {e}")
 
-    # ================== 3. สร้างไฟล์ JSON W3U ==================
-    print(f"รวบรวมสำเร็จ {len(movies_data)} เรื่อง, กำลังสร้างไฟล์ {OUTPUT_FILE}")
+    # ================== 3. สร้างไฟล์ JSON (W3U) ==================
+    print(f"\nรวบรวมสำเร็จ {len(movies_data)} เรื่อง, กำลังสร้างไฟล์ {OUTPUT_FILE}")
     os.makedirs(SAVE_DIR, exist_ok=True)
     
     current_date = datetime.now().strftime("%d/%m/%Y")
@@ -102,7 +112,7 @@ try:
             {
                 "name": "หนังใหม่ 2026 (อัปเดตอัตโนมัติ)",
                 "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
-                "stations": movies_data # ใส่ข้อมูลหนังที่กวาดมาได้ตรงนี้
+                "stations": movies_data
             }
         ]
     }
@@ -112,4 +122,4 @@ try:
 
 finally:
     driver.quit()
-    print("จบการทำงาน")
+    print("\nจบการทำงาน!")
