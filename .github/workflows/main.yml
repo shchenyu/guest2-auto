@@ -1,0 +1,36 @@
+name: Hub Auto Update
+
+on:
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+  
+    container: mcr.microsoft.com/playwright/python:v1.59.0-jammy
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Python package
+        run: pip install playwright
+     
+
+      - name: Run Update
+        run: python main.py
+
+      - name: Save Changes
+        run: |
+          # ป้องกัน Error สิทธิ์การเข้าถึงไฟล์ในโหมด Container
+          git config --global --add safe.directory '*'
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
+          git add Hub.w3u
+          git commit -m "Auto update $(date)" || exit 0
+
+          git pull origin main --rebase
+          git push
