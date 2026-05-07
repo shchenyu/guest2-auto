@@ -15,25 +15,34 @@ OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 # ================== ตั้งค่า Selenium ==================
 options = Options()
-options.add_argument("--headless=new") # รันแบบซ่อนหน้าจอ
+# เปลี่ยนจาก --headless=new กลับมาใช้ตัวปกติเพื่อความเสถียรกับ selenium-wire
+options.add_argument("--headless") 
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--window-size=1920,1080")
 options.add_argument("--mute-audio")
 
-# 🌟 แก้ปัญหา ERR_CONNECTION_CLOSED และข้ามการตรวจสอบ SSL
+# 🌟 ปิดระบบความปลอดภัยและกราฟิกที่ทำให้ Chrome ปฏิเสธ Proxy บน GitHub Actions
+options.add_argument("--disable-gpu")
+options.add_argument("--disable-software-rasterizer")
+options.add_argument("--disable-web-security")
 options.add_argument("--ignore-certificate-errors")
 options.add_argument("--ignore-ssl-errors")
+options.add_argument("--allow-insecure-localhost")
 
 service = Service(ChromeDriverManager().install())
 
-# 🌟 ตั้งค่า selenium-wire เพื่อป้องกันสคริปต์หลุดการเชื่อมต่อ
+# 🌟 ตั้งค่า selenium-wire เพิ่มเติม
 sw_options = {
     'verify_ssl': False,
-    'suppress_connection_errors': True
+    'suppress_connection_errors': True,
+    'enable_har': False, # ปิดโหมดเก็บประวัติแบบละเอียดเพื่อประหยัด RAM บน GitHub
+    'connection_timeout': 30 # เพิ่มเวลาเชื่อมต่อ ป้องกันเน็ตเซิร์ฟเวอร์ช้า
 }
 
 driver = webdriver.Chrome(service=service, options=options, seleniumwire_options=sw_options)
+# ตั้งเวลา Time Out ให้หน้าเว็บโหลด
+driver.set_page_load_timeout(60)
 
 try:
     # ================== 1. เข้าหน้ารวมเพื่อกวาดลิงก์ ==================
@@ -62,7 +71,7 @@ try:
         print(f"\n[{idx}/{len(all_movie_links)}] กำลังดึง: {movie_url}")
         try:
             driver.get(movie_url)
-            time.sleep(15) # รอวิดีโอและ Network โหลด (ใช้เวลา 15 วิเพื่อให้ชัวร์ว่า m3u8 เด้งขึ้นมา)
+            time.sleep(15) 
             
             # --- ดึงชื่อหนังและหน้าปก ---
             soup_detail = BeautifulSoup(driver.page_source, "html.parser")
