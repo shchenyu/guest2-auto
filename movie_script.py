@@ -13,8 +13,8 @@ MAIN_URL = "https://www.123-hds.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%8
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
-# 🌟 ตั้งค่าจำนวนหน้าที่ต้องการกวาดข้อมูล (จากภาพคือมีถึงหน้า 8)
-MAX_PAGE = 8 
+# ตั้งค่าจำนวนหน้าที่ต้องการกวาดข้อมูล
+MAX_PAGE = 1 
 
 # ฟังก์ชันสำหรับควานหาลิงก์ .m3u8 ใน Log
 def extract_m3u8(logs):
@@ -53,9 +53,8 @@ driver.set_page_load_timeout(60)
 try:
     all_movie_links = []
     
-    # ================== 1. วนลูปเข้าหน้ารวมตั้งแต่หน้า 1 ถึง 8 ==================
+    # ================== 1. วนลูปเข้าหน้ารวมตั้งแต่หน้า 1 ถึง MAX_PAGE ==================
     for page in range(1, MAX_PAGE + 1):
-        # ถ้ารอบแรกคือหน้า 1 ให้ใช้ลิงก์หลัก ถ้าหน้าอื่นให้เติม /page/ตัวเลข
         page_url = MAIN_URL if page == 1 else f"{MAIN_URL}/page/{page}"
         
         print(f"กำลังกวาดลิงก์จากหน้า {page}/{MAX_PAGE}: {page_url}")
@@ -72,9 +71,8 @@ try:
                 if a_tag and "href" in a_tag.attrs:
                     all_movie_links.append(a_tag["href"])
                     
-    # ลบลิงก์ที่ซ้ำกัน
     all_movie_links = list(set(all_movie_links))
-    print(f"\n🎉 รวมกวาดลิงก์จากทั้ง {MAX_PAGE} หน้า มาได้ทั้งหมด: {len(all_movie_links)} เรื่อง")
+    print(f"\n🎉 รวมกวาดลิงก์มาได้ทั้งหมด: {len(all_movie_links)} เรื่อง")
 
     movies_data = []
     
@@ -93,17 +91,51 @@ try:
             if img_tag:
                 movie_title = img_tag.get("alt", movie_title)
                 fetched_image = img_tag.get("src", movie_image)
-                
                 if fetched_image.startswith("/"):
                     movie_image = "https://www.123-hds.com" + fetched_image
                 else:
                     movie_image = fetched_image
+
+            # 🌟 ส่วนที่เพิ่มใหม่: ค้นหาข้อมูล พากย์ไทย/ซับไทย และ หนังซูม/HD
+            tags = []
+            
+            # ลองดึงจากป้าย Tag ของเว็บ
+            quality_tag = soup_detail.select_one(".status, .quality, .halim-status, .resolution")
+            if quality_tag:
+                tags.append(quality_tag.get_text(strip=True))
+                
+            audio_tag = soup_detail.select_one(".episode, .sound, .halim-episode, .audio")
+            if audio_tag:
+                tags.append(audio_tag.get_text(strip=True))
+                
+            # ถ้าหาจากป้ายไม่เจอ ให้สแกนข้อความในหน้าเว็บแทน
+            if not audio_tag or not quality_tag:
+                info_box = soup_detail.find("div", class_="movie_info") or soup_detail
+                info_text = info_box.get_text()
+                
+                if not audio_tag:
+                    if "พากย์ไทย" in info_text: tags.append("พากย์ไทย")
+                    elif "ซับไทย" in info_text: tags.append("ซับไทย")
+                
+                if not quality_tag:
+                    if "ชนโรง" in info_text or "ซูม" in info_text or "CAM" in info_text: tags.append("หนังซูม")
+                    elif "HD" in info_text or "Master" in info_text: tags.append("HD")
+                    
+            # นำ Tag มาประกอบร่างกับชื่อหนัง
+            if tags:
+                # ลบคำซ้ำและลบค่าว่างทิ้ง
+                tags = list(dict.fromkeys([t.upper() for t in tags if t]))
+                tag_str = " | ".join(tags)
+                # เช็คว่าถ้ามีแท็กอยู่แล้วในชื่อเรื่อง (เว็บอาจจะใส่มาให้แล้ว) จะได้ไม่ใส่ซ้ำซ้อน
+                if tag_str not in movie_title:
+                    movie_title = f"[{tag_str}] {movie_title}"
+            
+            # --- จบส่วนแท็ก ---
             
             m3u8_url = extract_m3u8(driver.get_log("performance"))
             
             if not m3u8_url:
                 iframe = soup_detail.select_one("#ajax-player iframe, .halim-player-wrapper iframe")
-                
                 if not iframe:
                     try:
                         driver.execute_script("let btn = document.querySelector('.halim-list-server li a'); if(btn) btn.click();")
@@ -118,7 +150,6 @@ try:
                     if iframe_url.startswith("//"):
                         iframe_url = "https:" + iframe_url
                         
-                    print(f"  -> กำลังเจาะเข้า Player...")
                     driver.get(iframe_url)
                     time.sleep(5)
                     
@@ -131,14 +162,14 @@ try:
                     m3u8_url = extract_m3u8(driver.get_log("performance"))
 
             if m3u8_url:
-                print(f"  -> ✅ สำเร็จ: {m3u8_url[:60]}...")
+                print(f"  -> ✅ สำเร็จ: {movie_title}")
                 movies_data.append({
                     "name": movie_title,
                     "image": movie_image,
                     "url": m3u8_url
                 })
             else:
-                print("  -> ❌ ไม่พบลิงก์ m3u8")
+                print(f"  -> ❌ ไม่พบลิงก์ m3u8 ({movie_title})")
                 
         except Exception as e:
             print(f"  -> Error: {e}")
@@ -151,7 +182,7 @@ try:
     
     final_data = {
         "name": f"หนังใหม่ 2026 @ {current_date}",
-        "author": "Auto Update 8/5/26",
+        "author": "Auto Update",
         "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
         "groups": [
             {
