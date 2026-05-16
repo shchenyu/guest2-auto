@@ -14,7 +14,7 @@ SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 # ตั้งค่าจำนวนหน้าที่ต้องการกวาดข้อมูล
-MAX_PAGE = 1 
+MAX_PAGE = 9 
 
 # ฟังก์ชันสำหรับควานหาลิงก์ .m3u8 ใน Log
 def extract_m3u8(logs):
