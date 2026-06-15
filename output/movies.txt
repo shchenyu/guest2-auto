@@ -1,5 +1,5 @@
 {
-  "name": "หนังใหม่ 2026 @ 14/06/2026",
+  "name": "หนังใหม่ 2026 @ 15/06/2026",
   "author": "Auto Update",
   "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
   "groups": [
@@ -8,39 +8,9 @@
       "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
       "stations": [
         {
-          "name": "[HD | ซับไทย] The last Viking (2025)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-last-Viking-2025-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b56791d746fca2a7aa73a016/b56791d746fca2a7aa73a016.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Biker (2026) ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Biker-2026-ไบเกอร์-ซิ่งเดือดสายเลือดนักบิด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/883c2625db13933e386408d2/883c2625db13933e386408d2.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Bride! (2026) เจ้าสาว!",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Bride-2026-เจ้าสาว-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/88c7ce61a58f147db06a38bf/88c7ce61a58f147db06a38bf.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] GARO Taiga (2025) กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/89e5d9899eef08d43a33dfb4/89e5d9899eef08d43a33dfb4.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Ginseng King (2026) ตำนานนักล่าภูผาอาถรรพ์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Ginseng-King-2026-ตำนานนักล่าภูผาอาถรรพ์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f7aa33a53b1ff555089dc7ed/f7aa33a53b1ff555089dc7ed.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Starbright (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Starbright-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fa31263a4148fe2a98aff8cd/fa31263a4148fe2a98aff8cd.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] A Fathers Miracle (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/8548d803f18e133bca4a4863/8548d803f18e133bca4a4863.m3u8"
+          "name": "[HD | ซับไทย] Blood Devotion (2026) เรือนอาถรรพ์บูชาเลือด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Blood-Devotion-2026-เรือนอาถรรพ์บูชาเลือด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/58f558476daa4e76d9a0ad09/58f558476daa4e76d9a0ad09.m3u8"
         },
         {
           "name": "[HD | ซับไทย] Spider Fairy (2026) เซียนแมงมุม",
@@ -48,364 +18,9 @@
           "url": "https://main.24playerhd.com/newplaylist/cd2dd9ae68580a1ae2459f58/cd2dd9ae68580a1ae2459f58.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Feel My Voice (2026) สัมผัสแห่งเสียง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Feel-My-Voice-2026-สัมผัสแห่งเสียง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1285c0f3a62f3152c6fc44a2/1285c0f3a62f3152c6fc44a2.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Chum (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Chum-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/cdfdd84e5b379274f7194bfe/cdfdd84e5b379274f7194bfe.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Sawsawan (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Sawsawan-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0c5ac831a33796f5274b217f/0c5ac831a33796f5274b217f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Hokum (2026) ห้องกุมวิญญาณ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Hokum-2026-ห้องกุมวิญญาณ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b0769fd2ad600c33e1a410e6/b0769fd2ad600c33e1a410e6.m3u8"
-        },
-        {
           "name": "[HD | ซับไทย] The Strangers Chapter 3 (2026) กระชากหน้าอำมหิต",
           "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Strangers-Chapter-3-2026-กระชากหน้าอำมหิต-300x450.png",
           "url": "https://main.24playerhd.com/newplaylist/5668ebc4fdde4163e1e8b263/5668ebc4fdde4163e1e8b263.m3u8"
-        },
-        {
-          "name": "[ZOOM | พากย์ไทย] My Dearest Assassin (2026) เลือดรัก นักฆ่า",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/My-Dearest-Assassin-2026-เลือดรัก-นักฆ่า-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/7922ef0185775477f4b77e97/7922ef0185775477f4b77e97.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Wuthering Heights (2026) วัทเตอริ่ง ไฮต์ส",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Wuthering-Heights-2026-วัทเตอริ่ง-ไฮต์ส-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/865455fe1ba5148a53938918/865455fe1ba5148a53938918.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Yeti (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Yeti-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1d7e0120d416c6f91652da6f/1d7e0120d416c6f91652da6f.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Hellfire (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Hellfire-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/aae115fb8bdab0b00accc32f/aae115fb8bdab0b00accc32f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Mudborn (2026) หุ่นดินผี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Mudborn-2026-หุ่นดินผี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/718de6c3912c82a06b4c3008/718de6c3912c82a06b4c3008.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] It Takes a Village (2026) หมู่เฮารวมใจ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2818aaf0d165964a30651c2c/2818aaf0d165964a30651c2c.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Crazy Beggar SuQiEr (2026) ยาจกซู หมัดเมาสะท้านฟ้า",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Crazy-Beggar-SuQiEr-2026-ยาจกซู-หมัดเมาสะท้านฟ้า-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/e037cf7238980a97174f63b0/e037cf7238980a97174f63b0.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Kraken (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Kraken-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/bf2dfdb5ccf177267eb3777e/bf2dfdb5ccf177267eb3777e.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Loved One (2026) คนนี้… ที่รัก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Loved-One-2026-คนนี้.-ที่รัก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/37081e30cdd2f60221778c5e/37081e30cdd2f60221778c5e.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Accused (2026) ใต้เงาคำกล่าวหา",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Accused-2026-ใต้เงาคำกล่าวหา-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/04f464560a3f8a20d9ed093a/04f464560a3f8a20d9ed093a.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Gone (2026) โกน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Gone-2026-โกน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/4a1e1644340b02eb6d4ca114/4a1e1644340b02eb6d4ca114.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Evil’s Return (2026) การกลับมาของปีศาจร้าย",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Evils-Return-2026-การกลับมาของปีศาจร้าย-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/83ee8444a70990c1658149b2/83ee8444a70990c1658149b2.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Mike & Nick & Nick & Alice (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Mike-Nick-Nick-Alice-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/c4acbc6367280ce37dbc591d/c4acbc6367280ce37dbc591d.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Pretty Lethal (2026) หน้าสวย สังหาร",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Pretty-Lethal-2026-หน้าสวย-สังหาร-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/64fdcffbe672f08c64cafa55/64fdcffbe672f08c64cafa55.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Colony (2026) ยึดร่างคลั่ง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Colony-2026-ยึดร่างคลั่ง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/eded5de9785d301e6fd7f76a/eded5de9785d301e6fd7f76a.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Cold Storage (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Cold-Storage-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/742e161db07d680ee2e376b0/742e161db07d680ee2e376b0.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Raakaasa (2026) รักหลอนซ่อนอสูร",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Raakaasa-2026-รักหลอนซ่อนอสูร-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/420363200e97e427e757d58d/420363200e97e427e757d58d.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Way to You (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Way-to-You-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/762509fdb8fe7db2c454de6c/762509fdb8fe7db2c454de6c.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Backrooms (2026) นรกห้องลับ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Backrooms-2026-นรกห้องลับ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/32f52fbde3e8c32b3e013db2/32f52fbde3e8c32b3e013db2.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Primate (2026) ลิงคลั่งพันธุ์ดิบ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Primate-2026-ลิงคลั่งพันธุ์ดิบ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/c79b8b16ffbeb8676cd569fd/c79b8b16ffbeb8676cd569fd.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Tom Clancys Jack Ryan Ghost War (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/a5590420cae4b11254ce5a3f/a5590420cae4b11254ce5a3f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Mandalorian and Grogu (2026) แมนดาลอเรี่ยนและโกรกู",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Mandalorian-and-Grogu-2026-แมนดาลอเรี่ยนและโกรกู-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/704368a02a6ab5e0ebdd201b/704368a02a6ab5e0ebdd201b.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Angel Flight The Movie (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Angel-Flight-The-Movie-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/7272e0639aa76a7efd046595/7272e0639aa76a7efd046595.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Crime-101-2025-เส้นทางปล้นโคตรระห่ำ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/c1e874c612ab096310bd5f3f/c1e874c612ab096310bd5f3f.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Rise of the Conqueror (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Rise-of-the-Conqueror-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/cf8327f7fe4604b0308124b3/cf8327f7fe4604b0308124b3.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Until She Remembers (2026) จนกว่าเธอจะจําได้",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Until-She-Remembers-2026-จนกว่าเธอจะจําได้-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/93efc10bad4ecc0914b4d23d/93efc10bad4ecc0914b4d23d.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Pavane (2026) เมื่อใจบ่มรัก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/56f4589f136fc33aaaa6efb4/56f4589f136fc33aaaa6efb4.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] BTS The Return (2026) BTS กลับมาแล้ว",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/BTS-The-Return-2026-BTS-กลับมาแล้ว-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f81c06fc8ef141d7773e028e/f81c06fc8ef141d7773e028e.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] I AM UNDERCOVER (2026) สายลับซ่อนตัวตน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/I-AM-UNDERCOVER-2026-สายลับซ่อนตัวตน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/931b2efbb108e679c0a78866/931b2efbb108e679c0a78866.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Suppaleehuan (2026) สรรพลี้หวน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Suppaleehuan-2026-สรรพลี้หวน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/3323eacd87a5e22ce44c4ff2/3323eacd87a5e22ce44c4ff2.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Banduan (2025) คืนเดือดฝ่าวงล้อมนรก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Banduan-2025-คืนเดือดฝ่าวงล้อมนรก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/37c05d6f28a255a10d0e9aab/37c05d6f28a255a10d0e9aab.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Toaster (2026) ปิง ปิ่ง ปิ้ง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Toaster-2026-ปิง-ปิ่ง-ปิ้ง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/3e8fcc138870a3ec2a877adf/3e8fcc138870a3ec2a877adf.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Strangers in the Park (2026) คนแปลกหน้าในสวน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Strangers-in-the-Park-2026-คนแปลกหน้าในสวน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0038714ddbb9debbce04af2d/0038714ddbb9debbce04af2d.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] That Time I Got Reincarnated as a Slime the Movie Tears of the Azure Sea (2026) เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้วเดอะมูฟวี่ ภาคน้ำตาแห่งห้วงทะเลคราม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/That-Time-I-Got-Reincarnated-as-a-Slime-the-Movie-Tears-of-the-Azure-Sea-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/97148a76d72d699c5c99635d/97148a76d72d699c5c99635d.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Bride of the Year (2026) เจ้าสาวแห่งปี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bride-of-the-Year-2026-เจ้าสาวแห่งปี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f973683c52892c66612e2d20/f973683c52892c66612e2d20.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Blades of The Guardians (2026) ยอดยุทธ์ดาบพิทักษ์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Blades-of-The-Guardians-2026-ยอดยุทธ์ดาบพิทักษ์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2647de4ec6eddb05334bc049/2647de4ec6eddb05334bc049.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Pizza Movie (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Pizza-Movie-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fe77c26af76750b547ce61ef/fe77c26af76750b547ce61ef.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Special Police and Snake Revenge (2026) หายนะอสรพิษร้าย",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Special-Police-and-Snake-Revenge-2026-หายนะอสรพิษร้าย-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/51d5741b08a25abbf8cbbb17/51d5741b08a25abbf8cbbb17.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Milky Subway The Galactic Limited Express to the Theater (2026) มิลกี้ ซับเวย์ รถไฟด่วนทะลุกาแล็กซี เดอะ มูฟวี่",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Milky-Subway-The-Galactic-Limited-Express-to-the-Theater-2026-มิลกี้-ซับเวย์-รถไฟด่วนทะลุกาแล็กซี-เดอะ-มูฟวี่-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f02dae7c6a90e354b30edb84/f02dae7c6a90e354b30edb84.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Shelter (2026) คลั่งนรก หลบตาย",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Shelter-2026-คลั่งนรก-หลบตาย-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1d1ca47ef68dcb4ae721e859/1d1ca47ef68dcb4ae721e859.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] How to Make a Killing (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/How-to-Make-a-Killing-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0b097f31cd664be5df5f693a/0b097f31cd664be5df5f693a.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Untold Chess Mates (2026) คู่แข่งหมากรุก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Untold-Chess-Mates-2026-คู่แข่งหมากรุก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/75df8e534f3d3e91c17d1119/75df8e534f3d3e91c17d1119.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Psycho Killer (2026) ฆาตกรโรคจิต",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Psycho-Killer-2026-ฆาตกรโรคจิต-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/e7322d15436e7eea05850966/e7322d15436e7eea05850966.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Louis Theroux Inside the Manosphere (2026) หลุยส์ เทอโรซ์ เจาะโลกยุคใหม่ของชายนิยม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Louis-Theroux-Inside-the-Manosphere-2026-หลุยส์-เทอโรซ์-เจาะโลกยุคใหม่ของชายนิยม-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/6bc229ef5170c35b4c46c034/6bc229ef5170c35b4c46c034.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Crash (2026) ชนยับ อุบัติเหตุหรือฆาตกรรม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Crash-2026-ชนยับ-อุบัติเหตุหรือฆาตกรรม-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b50c96c7c822402fef9fce44/b50c96c7c822402fef9fce44.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Send Help (2026) โปรดส่งใครมาช่วยฉันที",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Send-Help-2026-โปรดส่งใครมาช่วยฉันที-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/df1a06561560c2b91effe4f9/df1a06561560c2b91effe4f9.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Legend of Ling Jing (2026) ตำนานหลิงจิง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Legend-of-Ling-Jing-2026-ตำนานหลิงจิง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/cb50e2f515b5cb08964fb4d7/cb50e2f515b5cb08964fb4d7.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Project Hail Mary (2026) ภารกิจกู้สุริยะ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Project-Hail-Mary-2026-ภารกิจกู้สุริยะ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b5d27a738f89dc08ae48bc8d/b5d27a738f89dc08ae48bc8d.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Fury In The Shadows (2026) คดีปล้นโหดระห่ำ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Fury-In-The-Shadows-2026-คดีปล้นโหดระห่ำ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/29632a0dd34ca90a4d0e14a0/29632a0dd34ca90a4d0e14a0.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] México 1986 (2026) เม็กซิโก 1986",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Mexico-1986-2026-เม็กซิโก-1986-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1aa407565d00eb9aaea40065/1aa407565d00eb9aaea40065.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Mother Mary (2026) มาเธอร์ แมรี่",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mother-Mary-2026-มาเธอร์-แมรี่-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b6d67a068cbbdf131c47da64/b6d67a068cbbdf131c47da64.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Ghost Marriage (2026) สุสานลวงห้วงอารมณ์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Ghost-Marriage-2026-สุสานลวงห้วงอารมณ์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/8b790df26ab8403ab419cdb1/8b790df26ab8403ab419cdb1.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Pillion (2026) คนข้างหลัง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0eafb6cb73b9f88373105c27/0eafb6cb73b9f88373105c27.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Panor 2 (2026) พนอ 2",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Panor-2-2026-พนอ-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2ea7d8b80003ab7f82374a66/2ea7d8b80003ab7f82374a66.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Son In Law (2026) ลูกเขยคนโปรด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Son-In-Law-2026-ลูกเขยคนโปรด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d9e55749463a98bd28cc90a5/d9e55749463a98bd28cc90a5.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1def9a9779ff1c6ab0f0e844/1def9a9779ff1c6ab0f0e844.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Tu Yaa Main (2026) ไม่เธอ…ก็ฉัน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Tu-Yaa-Main-2026-ไม่เธอ.ก็ฉัน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b9205398abb05641f7f41c00/b9205398abb05641f7f41c00.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Swat Angels In Mission (2026) ภารกิจนางฟ้าหน่วยสวาท",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Swat-Angels-In-Mission-2026-ภารกิจนางฟ้าหน่วยสวาท-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1ce323d1cf333bc3d0a29bef/1ce323d1cf333bc3d0a29bef.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Scare Out (2026) เกมล่าทรชน คนล่าคน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Scare-Out-2026-เกมล่าทรชน-คนล่าคน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/647a85950e62917970a068c2/647a85950e62917970a068c2.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Dual Heroes Strike (2026) สองฮีโร่บุกทะลวง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Dual-Heroes-Strike-2026-สองฮีโร่บุกทะลวง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0f32888ebb681590a47d5f4e/0f32888ebb681590a47d5f4e.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] System (2026) ยุติธรรมนำทาง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/System-2026-ยุติธรรมนำทาง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f23b7d02d4ddc244daf69aba/f23b7d02d4ddc244daf69aba.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Joe’s College Road Trip (2026) โร้ดทริปป่วนกับคุณปู่โจ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Joes-College-Road-Trip-2026-โร้ดทริปป่วนกับคุณปู่โจ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b4a454038c8a93ea8530c85d/b4a454038c8a93ea8530c85d.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Mulan Light A fire (2026) มู่หลานคมดาบอาบเลือด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mulan-Light-A-fire-2026-มู่หลานคมดาบอาบเลือด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1cbe04e5605af8fd5ec46e22/1cbe04e5605af8fd5ec46e22.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] No Place to Be Single (2026) เมืองนี้ไม่มีที่ให้คนโสด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/No-Place-to-Be-Single-2026-เมืองนี้ไม่มีที่ให้คนโสด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d967efc1e19423eabdbc2c80/d967efc1e19423eabdbc2c80.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Humint (2026) เกมจารชนคนในเงา",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Humint-2026-เกมจารชนคนในเงา-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/46c9c798b0f4cdaf760d152d/46c9c798b0f4cdaf760d152d.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Poldi (2026) พรินซ์โพลดี้แห่งโคโลญ เส้นทางชีวิตนักเตะ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Poldi-2026-พรินซ์โพลดี้แห่งโคโลญ-เส้นทางชีวิตนักเตะ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/9a6648944130defe85cdcb84/9a6648944130defe85cdcb84.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Border 2 (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Border-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d4a1ecfdcc4751eea63e03f8/d4a1ecfdcc4751eea63e03f8.m3u8"
         },
         {
           "name": "[HD | พากย์ไทย] The Red Line (2026) เส้นตาย สายลวง",
@@ -413,104 +28,14 @@
           "url": "https://main.24playerhd.com/newplaylist/afcab5ad181073ee41fc5eba/afcab5ad181073ee41fc5eba.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] War Machine (2026) สงครามจักรกลถล่มโลก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/War-Machine-2026-สงครามจักรกลถล่มโลก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2ca33e5cbde1d7e0bcd0f74b/2ca33e5cbde1d7e0bcd0f74b.m3u8"
+          "name": "[HD | พากย์ไทย] Detective Dee Buddha’s Wrath (2026) ตี๋เหรินเจี๋ย เจดีย์สู่สวรรค์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Detective-Dee-Buddhas-Wrath-2026-ตี๋เหรินเจี๋ย-เจดีย์สู่สวรรค์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1f12409698de98cdb56cd828/1f12409698de98cdb56cd828.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Pansamantala (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Pansamantala-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/aeb9e86b188d0bcb83133d48/aeb9e86b188d0bcb83133d48.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Kartavya (2026) หน้าที่เหนือชีวิต",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Kartavya-2026-หน้าที่เหนือชีวิต-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/3a465fcddaa2c91dc243b523/3a465fcddaa2c91dc243b523.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Bluff (2026) ชำระแค้นราชินีโจรสลัด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Bluff-2026-ชำระแค้นราชินีโจรสลัด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/384da866868579816a09875e/384da866868579816a09875e.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Vengeance (2026) ปฏิบัติการเดือดเลือดล้างเลือด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Vengeance-2026-ปฏิบัติการเดือดเลือดล้างเลือด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/08d6a92cf05d3b0cdd82c0e0/08d6a92cf05d3b0cdd82c0e0.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Dresden Sun (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Dresden-Sun-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d9a9186b5d10057a7e19994a/d9a9186b5d10057a7e19994a.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Ustaad Bhagat Singh (2026) ภคัต สิงห์ ยอดคนผดุงความยุติธรรม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Ustaad-Bhagat-Singh-2026-ภคัต-สิงห์-ยอดคนผดุงความยุติธรรม-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f9e8ea3449358c885a527666/f9e8ea3449358c885a527666.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) โมบิลสูท กันดั้ม ฮาธาเวย์ เดอะ ซอร์เซอรี ออฟ นิมฟ์ เซอร์ซี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mobile-Suit-Gundam-Hathaway-The-Sorcery-of-Nymph-Circe-2026-โมบิลสูท-กันดั้ม-ฮาธาเวย์-เดอะ-ซอร์เซอรี-ออฟ-นิมฟ์-เซอร์ซี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/34d60f656f5bf16c7945177e/34d60f656f5bf16c7945177e.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Do Not Enter (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Do-Not-Enter-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fdc2bfa78dbd58e4d8574607/fdc2bfa78dbd58e4d8574607.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] 18th Rose (2026) กุหลาบแรกแย้ม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/18th-Rose-2026-กุหลาบแรกแย้ม-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/7eb4ee5c1363573ca1a1099b/7eb4ee5c1363573ca1a1099b.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Pegasus 3 (2026) ซัดสุดแรง แซงเต็มสปีด 3",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Pegasus-3-2026-ซัดสุดแรง-แซงเต็มสปีด-3-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/67526389b45f87ab4be524ca/67526389b45f87ab4be524ca.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Office Romance (2026) ปิ๊งรักในออฟฟิศ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Office-Romance-2026-ปิ๊งรักในออฟฟิศ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/ba2883b319051e1f847046f1/ba2883b319051e1f847046f1.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Swords of Legends Soul and Blade (2026) กระบี่แห่งตำนาน จิตวิญญาณและคมดาบ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Swords-of-Legends-Soul-and-Blade-2026-กระบี่แห่งตำนาน-จิตวิญญาณและคมดาบ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/cbfd8ceba0c1ba803f2986ff/cbfd8ceba0c1ba803f2986ff.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Giant Falls (2026) พ่อยักษ์สั่งลา",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Giant-Falls-2026-พ่อยักษ์สั่งลา-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d2f5e235423f7f134118e2f4/d2f5e235423f7f134118e2f4.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Return to Silent Hill (2026) เมืองห่าผี นครคืนชีพ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-2026-เมืองห่าผี-นครคืนชีพ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/89749854cfafbca214b38913/89749854cfafbca214b38913.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Sniper No Nation (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sniper-No-Nation-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0272d5939fb8a07cbfbfeb3f/0272d5939fb8a07cbfbfeb3f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Under Current (2026) ใต้เงามรณะ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Under-Current-2026-ใต้เงามรณะ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/66df2220ebf1bc9a7a0ec848/66df2220ebf1bc9a7a0ec848.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Sex Trip (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Sex-Trip-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/5fc08816023500a7eed1a43c/5fc08816023500a7eed1a43c.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Meal Ticket (2026) มีล ทิกเก็ต",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Meal-Ticket-2026-มีล-ทิกเก็ต-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d2baa883d8253d466fa81d7f/d2baa883d8253d466fa81d7f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Convenience Store (2026) มันแอบอยู่ในร้าน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Convenience-Store-2026-มันแอบอยู่ในร้าน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/6f56caebe0ce7109d9be93e7/6f56caebe0ce7109d9be93e7.m3u8"
+          "name": "[HD | ซับไทย] A Fathers Miracle (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/A-Fathers-Miracle-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/8548d803f18e133bca4a4863/8548d803f18e133bca4a4863.m3u8"
         },
         {
           "name": "[HD | พากย์ไทย] Swapped (2026) สลับร่างผจญภัย",
@@ -518,34 +43,9 @@
           "url": "https://main.24playerhd.com/newplaylist/cd266b151b5a242051c6ccaf/cd266b151b5a242051c6ccaf.m3u8"
         },
         {
-          "name": "[ZOOM | พากย์ไทย] The Swedish Connection (2026) ใต้เงาสวีเดน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Swedish-Connection-2026-ใต้เงาสวีเดน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2a8b2c9997ead66088124c70/2a8b2c9997ead66088124c70.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Diva La Vie​ (2026) ดีว่าราวี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Diva-La-Vie​-2026-ดีว่าราวี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/a8bc1188ce154cbbbdae41ac/a8bc1188ce154cbbbdae41ac.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Ready or Not 2 Here I Come (2026) เกมพร้อมตาย ภาค 2",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/c365ec5e340ea9bd900f669f/c365ec5e340ea9bd900f669f.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Dreadful (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Dreadful-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/36c5c47e9bfe510dc1dc555e/36c5c47e9bfe510dc1dc555e.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Code Guardian (2026) ผู้คุ้มกันพิเศษ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Code-Guardian-2026-ผู้คุ้มกันพิเศษ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fa647d518ffc84a8d382a15f/fa647d518ffc84a8d382a15f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Devil Wears Prada 2 (2026) นางมารสวมปราด้า 2",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Devil-Wears-Prada-2-2026-นางมารสวมปราด้า-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2c91c6c566c016b15eca032f/2c91c6c566c016b15eca032f.m3u8"
+          "name": "[HD | พากย์ไทย] Peaky Blinders The Immortal Man (2026) พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/653811e8dae7be011fafa09d/653811e8dae7be011fafa09d.m3u8"
         },
         {
           "name": "[ZOOM | ซับไทย] Cursed Village (2026) หมู่บ้านนางต้องสาป",
@@ -553,84 +53,24 @@
           "url": "https://main.24playerhd.com/newplaylist/319546e73978887b1bd4b5af/319546e73978887b1bd4b5af.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] The Magic Faraway Tree (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Magic-Faraway-Tree-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/3ee41a595b071e339df18060/3ee41a595b071e339df18060.m3u8"
+          "name": "[HD | ซับไทย] Raakaasa (2026) รักหลอนซ่อนอสูร",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Raakaasa-2026-รักหลอนซ่อนอสูร-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/420363200e97e427e757d58d/420363200e97e427e757d58d.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] State of Fear (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/State-of-Fear-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/34f8641dedcca7a21e4602ff/34f8641dedcca7a21e4602ff.m3u8"
+          "name": "[HD | ซับไทย] Night Patrol (2026) ไนท์เพอโทรว",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Night-Patrol-2026-ไนท์เพอโทรว-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/9611c8e87b8531bb33716bf0/9611c8e87b8531bb33716bf0.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Reckless (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Reckless-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/476e8b27b88ec785ad6b0a5d/476e8b27b88ec785ad6b0a5d.m3u8"
+          "name": "[HD | ซับไทย] The Kings Warden (2026) ดันจง ราชันย์นักโทษแห่งชองนยองโพ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Kings-Warden-2026-ดันจง-ราชันย์นักโทษแห่งชองนยองโพ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d7120d536a161856a50848a0/d7120d536a161856a50848a0.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Michael (2026) ไมเคิล",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Michael-2026-ไมเคิล-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/204be3d07ebb6aa7b91db07b/204be3d07ebb6aa7b91db07b.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Murder of Rachel Nickell (2026) คดีฆาตกรรมเรเชล นิกเคลล์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/The-Murder-of-Rachel-Nickell-2026-คดีฆาตกรรมเรเชล-นิกเคลล์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2226386d36e05786a35cfc37/2226386d36e05786a35cfc37.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Yogi Da (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Yogi-Da-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/ec16801afa1aa02f5ce25714/ec16801afa1aa02f5ce25714.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Scary Movie 6 (2026) ยำหนังจี้ 6",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Scary-Movie-6-2026-ยำหนังจี้-6-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/39476a25218f1e93b7e56dfb/39476a25218f1e93b7e56dfb.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Pasada Barurot dos (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Pasada-Barurot-dos-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/31db0152aec7b962e3f5bfbf/31db0152aec7b962e3f5bfbf.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Swallowed Star Showdown on Primeval Star (2026) มหาศึกล้างพิภพ ตอน ศึกชี้ชะตาแห่งดาวบุพกาล",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Swallowed-Star-Showdown-on-Primeval-Star-2026-มหาศึกล้างพิภพ-ตอน-ศึกชี้ชะตาแห่งดาวบุพกาล-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/e1d96cc4ef116889c2cbae4a/e1d96cc4ef116889c2cbae4a.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Huckster (2026) หอร้อยราตรี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Huckster-2026-หอร้อยราตรี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/3e9a915364b250849377b77a/3e9a915364b250849377b77a.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Mortal Kombat II (2026) มอร์ทัล คอมแบท 2",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mortal-Kombat-II-2026-มอร์ทัล-คอมแบท-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/a66997e5e6e09a60c7eeecfd/a66997e5e6e09a60c7eeecfd.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Stepdaddy (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Stepdaddy-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/762bfeef51f5c5fea89f2f59/762bfeef51f5c5fea89f2f59.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Jamie Vardy (2026) เจมี่ วาร์ดี้",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Jamie-Vardy-2026-เจมี่-วาร์ดี้-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/a71165797052fa3da80727fe/a71165797052fa3da80727fe.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Whistle (2026) หวีดเรียกผี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Whistle-2026-หวีดเรียกผี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/9e9e7970292168604dad2121/9e9e7970292168604dad2121.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Ikkis (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Ikkis-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/552a8834a6b2f58e531a8947/552a8834a6b2f58e531a8947.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Subedaar (2026) ซูเบดาร์ ล้างบางอธรรม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Subedaar-2026-ซูเบดาร์-ล้างบางอธรรม-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/c71cedc1a58cf007108c1e5a/c71cedc1a58cf007108c1e5a.m3u8"
+          "name": "[HD | พากย์ไทย] Hokum (2026) ห้องกุมวิญญาณ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Hokum-2026-ห้องกุมวิญญาณ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b0769fd2ad600c33e1a410e6/b0769fd2ad600c33e1a410e6.m3u8"
         },
         {
           "name": "[HD | ซับไทย] Marty Life Is Short (2026) มาร์ตี้ ชีวิตมันสั้น",
@@ -638,64 +78,9 @@
           "url": "https://main.24playerhd.com/newplaylist/afe3b1c1dda1ed9d00510f26/afe3b1c1dda1ed9d00510f26.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Ace Female Bodyguard (2026) ยอดหญิงบอดี้การ์ด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Ace-Female-Bodyguard-2026-ยอดหญิงบอดี้การ์ด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/084293491134725a1469fcae/084293491134725a1469fcae.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Human Resource (2025) พนักงานใหม่ (โปรดรับไว้พิจารณา)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Human-Resource-2025-พนักงานใหม่-โปรดรับไว้พิจารณา-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1d6c0199bc7e28567cf99874/1d6c0199bc7e28567cf99874.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Shocking Kungfu Of HUO’s (2026) ยอดกังฟูปราบอธรรม",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Shocking-Kungfu-Of-HUOs-2026-ยอดกังฟูปราบอธรรม-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0e62cbf6d36b72d437d65d19/0e62cbf6d36b72d437d65d19.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Ladies First (2026) ตื่นมาอีกที โลกนี้ผู้หญิงใหญ่",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Ladies-First-2026-ตื่นมาอีกที-โลกนี้ผู้หญิงใหญ่-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2f4909cfa7a3bd4758168a73/2f4909cfa7a3bd4758168a73.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Maa Behen (2026) เรื่องวุ่นๆ คุณแม่กับลูกสาว",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Maa-Behen-2026-เรื่องวุ่นๆ-คุณแม่กับลูกสาว-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/6fedd5c44f15e756f28449c8/6fedd5c44f15e756f28449c8.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Mavka The True Myth (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mavka-The-True-Myth-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/cd7906da482ea40722a00134/cd7906da482ea40722a00134.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Roommates (2026) รูมเมท",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Roommates-2026-รูมเมท-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/16ed5de55aee796b8d60a4a5/16ed5de55aee796b8d60a4a5.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Legend Hunters (2026) โมจิน โคตรคนล่าสุสาน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/The-Legend-Hunters-2026-โมจิน-โคตรคนล่าสุสาน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fbef11cf2eb876fb7ab1d9ec/fbef11cf2eb876fb7ab1d9ec.m3u8"
-        },
-        {
           "name": "[HD | ซับไทย] Geomancer (2026) กระถางศักดิ์สิทธิ์แห่งดินแดน",
           "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Geomancer-2026-กระถางศักดิ์สิทธิ์แห่งดินแดน-300x450.png",
           "url": "https://main.24playerhd.com/newplaylist/6afd01be82e3022337b36d80/6afd01be82e3022337b36d80.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] The Drama (2026) แต่งก็บ้า..ดราม่าเบอร์นี้",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Drama-2026-แต่งก็บ้า.ดราม่าเบอร์นี้-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/5f33be35f1a3eef4b1a30424/5f33be35f1a3eef4b1a30424.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Good Fortune (2025) เทวดาแบบใดห์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Good-Fortune-2025-เทวดาแบบใดห์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/651fbf233a72a56ab4e254f6/651fbf233a72a56ab4e254f6.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Do Deewane Seher Mein (2026) สองหัวใจในเมืองใหญ่",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Do-Deewane-Seher-Mein-2026-สองหัวใจในเมืองใหญ่-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/4d55d7b5da85387928f40bfa/4d55d7b5da85387928f40bfa.m3u8"
         },
         {
           "name": "[HD | ซับไทย] Operation Demon Hunt (2026) ปฏิบัติการล่าปีศาจ",
@@ -703,19 +88,154 @@
           "url": "https://main.24playerhd.com/newplaylist/a35355dbb26459fb59e6a8ee/a35355dbb26459fb59e6a8ee.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Funky (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Funky-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/359a6495ad4356813e80d523/359a6495ad4356813e80d523.m3u8"
+          "name": "[HD | ซับไทย] Legend of Ling Jing (2026) ตำนานหลิงจิง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Legend-of-Ling-Jing-2026-ตำนานหลิงจิง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/cb50e2f515b5cb08964fb4d7/cb50e2f515b5cb08964fb4d7.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] The Punisher One Last Kill (2026) เดอะ พันนิชเชอร์ ฆ่าทิ้งทวน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Punisher-One-Last-Kill-2026-เดอะ-พันนิชเชอร์-ฆ่าทิ้งทวน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/51f7c79de3cb6ad3e871d1b7/51f7c79de3cb6ad3e871d1b7.m3u8"
+          "name": "[HD | พากย์ไทย] Panda Plan 2 The Magical Tribe (2026) แพนด้าเด้งยกกำลังฟัด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Panda-Plan-2-The-Magical-Tribe-2026-พนด้าเด้งยกกำลังฟัด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2a17824b23674de2776e9103/2a17824b23674de2776e9103.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] A Gorilla Story (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-Gorilla-Story-2026-เล่าเรื่องกอริลลา-โดยเดวิด-แอทเทนเบอเรอห์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/9dbd35464ecf59fc718ad818/9dbd35464ecf59fc718ad818.m3u8"
+          "name": "[HD | ซับไทย] Forbidden Fruits (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Forbidden-Fruits-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/9238cea7b0d4fbdbe63e515e/9238cea7b0d4fbdbe63e515e.m3u8"
+        },
+        {
+          "name": "[ZOOM | พากย์ไทย] My Dearest Assassin (2026) เลือดรัก นักฆ่า",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/My-Dearest-Assassin-2026-เลือดรัก-นักฆ่า-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/7922ef0185775477f4b77e97/7922ef0185775477f4b77e97.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Blade Warrior of Blade Action (2026) นักรบคมดาบเดือด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Blade-Warrior-of-Blade-Action-2026-นักรบคมดาบเดือด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2b72f29fe91bc454e2575ee1/2b72f29fe91bc454e2575ee1.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Mardaani 3 (2026) หญิงเหล็กล่าทมิฬ 3",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Mardaani-3-2026-หญิงเหล็กล่าทมิฬ-3-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d5f0d67377ed0b935f933e65/d5f0d67377ed0b935f933e65.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Scream 7 (2026) หวีดสุดขีด 7",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Scream-7-2026-หวีดสุดขีด-7-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/3f11aaede4f55f2b8a16bf55/3f11aaede4f55f2b8a16bf55.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Do Not Enter (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Do-Not-Enter-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fdc2bfa78dbd58e4d8574607/fdc2bfa78dbd58e4d8574607.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Maa Behen (2026) เรื่องวุ่นๆ คุณแม่กับลูกสาว",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Maa-Behen-2026-เรื่องวุ่นๆ-คุณแม่กับลูกสาว-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/6fedd5c44f15e756f28449c8/6fedd5c44f15e756f28449c8.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Omukade (2025) โอมุคาเดะ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Omukade-2025-โอมุคาเดะ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0b46c8d84c7c152641028d2b/0b46c8d84c7c152641028d2b.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Do Deewane Seher Mein (2026) สองหัวใจในเมืองใหญ่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Do-Deewane-Seher-Mein-2026-สองหัวใจในเมืองใหญ่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/4d55d7b5da85387928f40bfa/4d55d7b5da85387928f40bfa.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Human Resource (2025) พนักงานใหม่ (โปรดรับไว้พิจารณา)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Human-Resource-2025-พนักงานใหม่-โปรดรับไว้พิจารณา-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1d6c0199bc7e28567cf99874/1d6c0199bc7e28567cf99874.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Cold Storage (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Cold-Storage-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/742e161db07d680ee2e376b0/742e161db07d680ee2e376b0.m3u8"
+        },
+        {
+          "name": "[ZOOM | พากย์ไทย] The Swedish Connection (2026) ใต้เงาสวีเดน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Swedish-Connection-2026-ใต้เงาสวีเดน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2a8b2c9997ead66088124c70/2a8b2c9997ead66088124c70.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Gary (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Gary-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fbd71d437d142af9213df8e4/fbd71d437d142af9213df8e4.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] 5 Centimeters Per Second (2026) ยามซากุระร่วงโรย",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-2026-ยามซากุระร่วงโรย-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/86790a3408923efcd265c4ce/86790a3408923efcd265c4ce.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Pansamantala (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Pansamantala-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/aeb9e86b188d0bcb83133d48/aeb9e86b188d0bcb83133d48.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Him (2025) ตำนานคนจริง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/ceb1f625e08c09ea09fccee8/ceb1f625e08c09ea09fccee8.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The last Viking (2025)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-last-Viking-2025-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b56791d746fca2a7aa73a016/b56791d746fca2a7aa73a016.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Crash (2026) ชนยับ อุบัติเหตุหรือฆาตกรรม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Crash-2026-ชนยับ-อุบัติเหตุหรือฆาตกรรม-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b50c96c7c822402fef9fce44/b50c96c7c822402fef9fce44.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Crazy Beggar SuQiEr (2026) ยาจกซู หมัดเมาสะท้านฟ้า",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Crazy-Beggar-SuQiEr-2026-ยาจกซู-หมัดเมาสะท้านฟ้า-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/e037cf7238980a97174f63b0/e037cf7238980a97174f63b0.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Back to the Past (2026) เจาะเวลาหาจิ๋นซี เดอะมูฟวี่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Back-to-the-Past-2026-เจาะเวลาหาจิ๋นซี-เดอะมูฟวี่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b785f90f928ee459972c358b/b785f90f928ee459972c358b.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Return to Silent Hill (2026) เมืองห่าผี นครคืนชีพ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Return-to-Silent-Hill-2026-เมืองห่าผี-นครคืนชีพ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/89749854cfafbca214b38913/89749854cfafbca214b38913.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Good Fortune (2025) เทวดาแบบใดห์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Good-Fortune-2025-เทวดาแบบใดห์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/651fbf233a72a56ab4e254f6/651fbf233a72a56ab4e254f6.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Faces of Death (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Faces-of-Death-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/e5d1d3751d9b6daa6e32bd31/e5d1d3751d9b6daa6e32bd31.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Made in Korea (2026) สร้างฝันในเกาหลี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Made-in-Korea-2026-สร้างฝันในเกาหลี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/54bd81fb16aa3e91314990a0/54bd81fb16aa3e91314990a0.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Milky Subway The Galactic Limited Express to the Theater (2026) มิลกี้ ซับเวย์ รถไฟด่วนทะลุกาแล็กซี เดอะ มูฟวี่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Milky-Subway-The-Galactic-Limited-Express-to-the-Theater-2026-มิลกี้-ซับเวย์-รถไฟด่วนทะลุกาแล็กซี-เดอะ-มูฟวี่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f02dae7c6a90e354b30edb84/f02dae7c6a90e354b30edb84.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] It Takes a Village (2026) หมู่เฮารวมใจ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/It-Takes-a-Village-2026-หมู่เฮารวมใจ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2818aaf0d165964a30651c2c/2818aaf0d165964a30651c2c.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] BREAK THROUGH (2026) ฝ่าแดนสงครามนรก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/BREAK-THROUGH-2026-ฝ่าแดนสงครามนรก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/5513d5d06da7761b9b92aca6/5513d5d06da7761b9b92aca6.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] They Will Kill You (2026) พวกมันจะฆ่าแก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/They-Will-Kill-You-2026-พวกมันจะฆ่าแก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/201bb14698b63d634c12da9f/201bb14698b63d634c12da9f.m3u8"
         },
         {
           "name": "[HD | ซับไทย] Catch The Killer (2026) ปฏิบัติการณ์ล่าฆาตกร",
@@ -723,9 +243,309 @@
           "url": "https://main.24playerhd.com/newplaylist/ddfd63708dc64d44594ccec7/ddfd63708dc64d44594ccec7.m3u8"
         },
         {
+          "name": "[HD | พากย์ไทย] Love Me Love Me (2026) รักนะ รักฉัน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Love-Me-Love-Me-2026-รักนะ-รักฉัน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/087ef7e3e40b6018aaab0b21/087ef7e3e40b6018aaab0b21.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Dual Heroes Strike (2026) สองฮีโร่บุกทะลวง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Dual-Heroes-Strike-2026-สองฮีโร่บุกทะลวง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0f32888ebb681590a47d5f4e/0f32888ebb681590a47d5f4e.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] GARO Taiga (2025) กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/GARO-Taiga-2025-กาโร่-ไทกะ-กำเนิดอัศวินหมาป่าทองคำ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/89e5d9899eef08d43a33dfb4/89e5d9899eef08d43a33dfb4.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Clika (2026) คลิกา ฝ่าชะตาล่าฝัน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Clika-2026-คลิกา-ฝ่าชะตาล่าฝัน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f7f2f431b82ea3f7a26d7086/f7f2f431b82ea3f7a26d7086.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Banduan (2025) คืนเดือดฝ่าวงล้อมนรก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Banduan-2025-คืนเดือดฝ่าวงล้อมนรก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/37c05d6f28a255a10d0e9aab/37c05d6f28a255a10d0e9aab.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Convenience Store (2026) มันแอบอยู่ในร้าน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Convenience-Store-2026-มันแอบอยู่ในร้าน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/6f56caebe0ce7109d9be93e7/6f56caebe0ce7109d9be93e7.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Psycho Killer (2026) ฆาตกรโรคจิต",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Psycho-Killer-2026-ฆาตกรโรคจิต-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/e7322d15436e7eea05850966/e7322d15436e7eea05850966.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Gone (2026) โกน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Gone-2026-โกน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/4a1e1644340b02eb6d4ca114/4a1e1644340b02eb6d4ca114.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Obsession (2026) สาปรักคลั่งหลอน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Obsession-2026-สาปรักคลั่งหลอน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/deb9432e8f5a4e0de49c80de/deb9432e8f5a4e0de49c80de.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Mike & Nick & Nick & Alice (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Mike-Nick-Nick-Alice-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/c4acbc6367280ce37dbc591d/c4acbc6367280ce37dbc591d.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Sniper No Nation (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sniper-No-Nation-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0272d5939fb8a07cbfbfeb3f/0272d5939fb8a07cbfbfeb3f.m3u8"
+        },
+        {
           "name": "[HD | ซับไทย] Monay (2026)",
           "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Monay-2026-300x450.png",
           "url": "https://main.24playerhd.com/newplaylist/29e921d83df4039f7f036e53/29e921d83df4039f7f036e53.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Meal Ticket (2026) มีล ทิกเก็ต",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Meal-Ticket-2026-มีล-ทิกเก็ต-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d2baa883d8253d466fa81d7f/d2baa883d8253d466fa81d7f.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Reckless (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Reckless-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/476e8b27b88ec785ad6b0a5d/476e8b27b88ec785ad6b0a5d.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Wuthering Heights (2026) วัทเตอริ่ง ไฮต์ส",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Wuthering-Heights-2026-วัทเตอริ่ง-ไฮต์ส-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/865455fe1ba5148a53938918/865455fe1ba5148a53938918.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Firebreak (2026) ดับไฟอารมณ์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Firebreak-2026-ดับไฟอารมณ์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d63adbcf81cff5d78fab4060/d63adbcf81cff5d78fab4060.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Fury In The Shadows (2026) คดีปล้นโหดระห่ำ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Fury-In-The-Shadows-2026-คดีปล้นโหดระห่ำ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/29632a0dd34ca90a4d0e14a0/29632a0dd34ca90a4d0e14a0.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] I AM UNDERCOVER (2026) สายลับซ่อนตัวตน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/I-AM-UNDERCOVER-2026-สายลับซ่อนตัวตน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/931b2efbb108e679c0a78866/931b2efbb108e679c0a78866.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Pavane (2026) เมื่อใจบ่มรัก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Pavane-2026-เมื่อใจบ่มรัก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/56f4589f136fc33aaaa6efb4/56f4589f136fc33aaaa6efb4.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] That Time I Got Reincarnated as a Slime the Movie Tears of the Azure Sea (2026) เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้วเดอะมูฟวี่ ภาคน้ำตาแห่งห้วงทะเลคราม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/That-Time-I-Got-Reincarnated-as-a-Slime-the-Movie-Tears-of-the-Azure-Sea-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/97148a76d72d699c5c99635d/97148a76d72d699c5c99635d.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Ginseng King (2026) ตำนานนักล่าภูผาอาถรรพ์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Ginseng-King-2026-ตำนานนักล่าภูผาอาถรรพ์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f7aa33a53b1ff555089dc7ed/f7aa33a53b1ff555089dc7ed.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Infiltrate (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Infiltrate-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/656daa81ac5bf280795e7246/656daa81ac5bf280795e7246.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Ghost Marriage (2026) สุสานลวงห้วงอารมณ์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Ghost-Marriage-2026-สุสานลวงห้วงอารมณ์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/8b790df26ab8403ab419cdb1/8b790df26ab8403ab419cdb1.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Special Police and Snake Revenge (2026) หายนะอสรพิษร้าย",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Special-Police-and-Snake-Revenge-2026-หายนะอสรพิษร้าย-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/51d5741b08a25abbf8cbbb17/51d5741b08a25abbf8cbbb17.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Bunny!! (2026) บันนี่! หลุมรักอันตราย",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Bunny-2026-บันนี่-หลุมรักอันตราย-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/886a40ff594f156ddfcef985/886a40ff594f156ddfcef985.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Eat Pray Bark (2026) เมื่อน้องหมาพาไปฮีลใจ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-เมื่อน้องหมาพาไปฮีลใจ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/68e48be7fa50efefd6f69d73/68e48be7fa50efefd6f69d73.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Thief Female Hero (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Thief-Female-Hero-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/7c046c22462f39e257cafb6f/7c046c22462f39e257cafb6f.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Lee Cronins The Mummy (2026) ลี โครนิน เดอะ มัมมี่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lee-Cronins-The-Mummy-2026-ลี-โครนิน-เดอะ-มัมมี่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/70aabb340b4a43205337a85e/70aabb340b4a43205337a85e.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Pizza Movie (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Pizza-Movie-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fe77c26af76750b547ce61ef/fe77c26af76750b547ce61ef.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Drama (2026) แต่งก็บ้า..ดราม่าเบอร์นี้",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Drama-2026-แต่งก็บ้า.ดราม่าเบอร์นี้-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/5f33be35f1a3eef4b1a30424/5f33be35f1a3eef4b1a30424.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Swords of Legends Soul and Blade (2026) กระบี่แห่งตำนาน จิตวิญญาณและคมดาบ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Swords-of-Legends-Soul-and-Blade-2026-กระบี่แห่งตำนาน-จิตวิญญาณและคมดาบ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/cbfd8ceba0c1ba803f2986ff/cbfd8ceba0c1ba803f2986ff.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Pretty Lethal (2026) หน้าสวย สังหาร",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Pretty-Lethal-2026-หน้าสวย-สังหาร-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/64fdcffbe672f08c64cafa55/64fdcffbe672f08c64cafa55.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Rise of the Conqueror (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Rise-of-the-Conqueror-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/cf8327f7fe4604b0308124b3/cf8327f7fe4604b0308124b3.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Ready or Not 2 Here I Come (2026) เกมพร้อมตาย ภาค 2",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/c365ec5e340ea9bd900f669f/c365ec5e340ea9bd900f669f.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Hoppers-2026-เด้งโดด-เปลี่ยนโหมดเป็นบีเวอร์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/44c314ae5007160869d21587/44c314ae5007160869d21587.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Scare Out (2026) เกมล่าทรชน คนล่าคน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Scare-Out-2026-เกมล่าทรชน-คนล่าคน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/647a85950e62917970a068c2/647a85950e62917970a068c2.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Mother Mary (2026) มาเธอร์ แมรี่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mother-Mary-2026-มาเธอร์-แมรี่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b6d67a068cbbdf131c47da64/b6d67a068cbbdf131c47da64.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Sex Trip (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Sex-Trip-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/5fc08816023500a7eed1a43c/5fc08816023500a7eed1a43c.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Masters of the Universe (2026) นักรบเจ้าจักรวาล",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Masters-of-the-Universe-2026-นักรบเจ้าจักรวาล-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/9d5a0596cd3dc993e861cbbc/9d5a0596cd3dc993e861cbbc.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Legend Hunters (2026) โมจิน โคตรคนล่าสุสาน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/The-Legend-Hunters-2026-โมจิน-โคตรคนล่าสุสาน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fbef11cf2eb876fb7ab1d9ec/fbef11cf2eb876fb7ab1d9ec.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Apex (2026) ห่วงโซ่สังหาร",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Apex-2026-ห่วงโซ่สังหาร-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/7678c945bd39a860ffeb5a55/7678c945bd39a860ffeb5a55.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Ace Female Bodyguard (2026) ยอดหญิงบอดี้การ์ด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Ace-Female-Bodyguard-2026-ยอดหญิงบอดี้การ์ด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/084293491134725a1469fcae/084293491134725a1469fcae.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Falcon Assault (2026) เหยี่ยวล่าบุกระห่ำ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Falcon-Assault-2026-เหยี่ยวล่าบุกระห่ำ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/abc620f4784fc250e9bf6c56/abc620f4784fc250e9bf6c56.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Pasada Barurot dos (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Pasada-Barurot-dos-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/31db0152aec7b962e3f5bfbf/31db0152aec7b962e3f5bfbf.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Mulan Light A fire (2026) มู่หลานคมดาบอาบเลือด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mulan-Light-A-fire-2026-มู่หลานคมดาบอาบเลือด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1cbe04e5605af8fd5ec46e22/1cbe04e5605af8fd5ec46e22.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Starbright (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Starbright-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fa31263a4148fe2a98aff8cd/fa31263a4148fe2a98aff8cd.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Legend of the Changbai Mountain Hunter 2 (2026) ตำนานนายพรานแห่งเขาฉางไป๋ 2",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Legend-of-the-Changbai-Mountain-Hunter-2-2026-ตำนานนายพรานแห่งเขาฉางไป๋-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/c6f6c06f11f1a4079f530c66/c6f6c06f11f1a4079f530c66.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Diva La Vie​ (2026) ดีว่าราวี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Diva-La-Vie​-2026-ดีว่าราวี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a8bc1188ce154cbbbdae41ac/a8bc1188ce154cbbbdae41ac.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Bride! (2026) เจ้าสาว!",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Bride-2026-เจ้าสาว-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/88c7ce61a58f147db06a38bf/88c7ce61a58f147db06a38bf.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Dresden Sun (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/The-Dresden-Sun-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d9a9186b5d10057a7e19994a/d9a9186b5d10057a7e19994a.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Over Your Dead Body (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Over-Your-Dead-Body-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/aa7d6e693306001cd41954a9/aa7d6e693306001cd41954a9.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Bride of the Year (2026) เจ้าสาวแห่งปี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bride-of-the-Year-2026-เจ้าสาวแห่งปี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f973683c52892c66612e2d20/f973683c52892c66612e2d20.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Jiaolong of Longkou (2026) สู่เส้นทางมังกรวารี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Jiaolong-of-Longkou-2026-สู่เส้นทางมังกรวารี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0631dea394bf399bd7e0fde8/0631dea394bf399bd7e0fde8.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Until She Remembers (2026) จนกว่าเธอจะจําได้",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Until-She-Remembers-2026-จนกว่าเธอจะจําได้-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/93efc10bad4ecc0914b4d23d/93efc10bad4ecc0914b4d23d.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] BTS The Return (2026) BTS กลับมาแล้ว",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/BTS-The-Return-2026-BTS-กลับมาแล้ว-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f81c06fc8ef141d7773e028e/f81c06fc8ef141d7773e028e.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Devil Wears Prada 2 (2026) นางมารสวมปราด้า 2",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Devil-Wears-Prada-2-2026-นางมารสวมปราด้า-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2c91c6c566c016b15eca032f/2c91c6c566c016b15eca032f.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Reminders of Him (2026) ร่องรอยรัก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Reminders-of-Him-2026-ร่องรอยรัก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] In the Blink of an Eye (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/In-the-Blink-of-an-Eye-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/307e0b750547dbadc0c448a6/307e0b750547dbadc0c448a6.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Backrooms (2026) นรกห้องลับ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Backrooms-2026-นรกห้องลับ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/32f52fbde3e8c32b3e013db2/32f52fbde3e8c32b3e013db2.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Anaganaga Oka Raju (2026) หนุ่มบ้านๆ กับฝันระดับราชา",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Anaganaga-Oka-Raju-2026-หนุ่มบ้านๆ-กับฝันระดับราชา-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/42c87bc3a7cf50173c8d6620/42c87bc3a7cf50173c8d6620.m3u8"
+        },
+        {
+          "name": "[ZOOM | ซับไทย] Iron Lung (2026) ไอรอน ลัง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Iron-Lung-2026-ไอรอน-ลัง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/12425cfe9f7f12f8cbd772d1/12425cfe9f7f12f8cbd772d1.m3u8"
         },
         {
           "name": "[HD | พากย์ไทย] Passenger (2026) ผู้ร่วมทางตาย",
@@ -738,144 +558,9 @@
           "url": "https://main.24playerhd.com/newplaylist/76421d1ff958104d6ffcbefd/76421d1ff958104d6ffcbefd.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Dhurandhar The Revenge (2026) ปฏิบัติการกล้าสนั่นเมือง แค้นเดือดไร้ปรานี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Dhurandhar-The-Revenge-2026-ปฏิบัติการกล้าสนั่นเมือง-แค้นเดือดไร้ปรานี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fa3af439e8b9c19defb827b2/fa3af439e8b9c19defb827b2.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Huntsman (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Huntsman-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/9f9960ce12b557f96be08b27/9f9960ce12b557f96be08b27.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Over Your Dead Body (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Over-Your-Dead-Body-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/aa7d6e693306001cd41954a9/aa7d6e693306001cd41954a9.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] BTS the Comeback Live Arirang (2026) ไลฟ์สด การกลับมาของ BTS Arirang",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/BTS-the-Comeback-Live-Arirang-2026-ไลฟ์สด-การกลับมาของ-BTS-Arirang-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/66728ddde7ce8a821d9d7b41/66728ddde7ce8a821d9d7b41.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Master so Dragon Subduing Palms (2026) ซูช่าน 2 ฝ่ามือพิชิตมังกร",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Master-so-Dragon-Subduing-Palms-2026-ซูช่าน-2-ฝ่ามือพิชิตมังกร-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/566695fe6591e32ad0530d50/566695fe6591e32ad0530d50.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Legend of the Changbai Mountain Hunter 2 (2026) ตำนานนายพรานแห่งเขาฉางไป๋ 2",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Legend-of-the-Changbai-Mountain-Hunter-2-2026-ตำนานนายพรานแห่งเขาฉางไป๋-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/c6f6c06f11f1a4079f530c66/c6f6c06f11f1a4079f530c66.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Blood Devotion (2026) เรือนอาถรรพ์บูชาเลือด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Blood-Devotion-2026-เรือนอาถรรพ์บูชาเลือด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/58f558476daa4e76d9a0ad09/58f558476daa4e76d9a0ad09.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Gary (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Gary-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fbd71d437d142af9213df8e4/fbd71d437d142af9213df8e4.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Jiaolong of Longkou (2026) สู่เส้นทางมังกรวารี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Jiaolong-of-Longkou-2026-สู่เส้นทางมังกรวารี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0631dea394bf399bd7e0fde8/0631dea394bf399bd7e0fde8.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] JieLing (2026) แหวนศักดิ์สิทธิ์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/JieLing-2026-แหวนศักดิ์สิทธิ์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/74fb9e50dd7b89626ac15ed4/74fb9e50dd7b89626ac15ed4.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Anaganaga Oka Raju (2026) หนุ่มบ้านๆ กับฝันระดับราชา",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Anaganaga-Oka-Raju-2026-หนุ่มบ้านๆ-กับฝันระดับราชา-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/42c87bc3a7cf50173c8d6620/42c87bc3a7cf50173c8d6620.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Blade Warrior of Blade Action (2026) นักรบคมดาบเดือด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Blade-Warrior-of-Blade-Action-2026-นักรบคมดาบเดือด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2b72f29fe91bc454e2575ee1/2b72f29fe91bc454e2575ee1.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Faces of Death (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Faces-of-Death-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/e5d1d3751d9b6daa6e32bd31/e5d1d3751d9b6daa6e32bd31.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Infiltrate (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Infiltrate-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/656daa81ac5bf280795e7246/656daa81ac5bf280795e7246.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] 180 (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/180-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/8e0a69e908fbf3b5b3d4f1a5/8e0a69e908fbf3b5b3d4f1a5.m3u8"
-        },
-        {
-          "name": "[ZOOM | ซับไทย] Iron Lung (2026) ไอรอน ลัง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Iron-Lung-2026-ไอรอน-ลัง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/12425cfe9f7f12f8cbd772d1/12425cfe9f7f12f8cbd772d1.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Masters of the Universe (2026) นักรบเจ้าจักรวาล",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Masters-of-the-Universe-2026-นักรบเจ้าจักรวาล-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/9d5a0596cd3dc993e861cbbc/9d5a0596cd3dc993e861cbbc.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] The Lotto Winner (2026) เดอะ ล็อตโต้ วินเนอร์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/The-Lotto-Winner-2026-เดอะ-ล็อตโต้-วินเนอร์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/34a2c910990c8cd2a1268c08/34a2c910990c8cd2a1268c08.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Thief Female Hero (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Thief-Female-Hero-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/7c046c22462f39e257cafb6f/7c046c22462f39e257cafb6f.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Panda Plan 2 The Magical Tribe (2026) แพนด้าเด้งยกกำลังฟัด",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Panda-Plan-2-The-Magical-Tribe-2026-พนด้าเด้งยกกำลังฟัด-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/2a17824b23674de2776e9103/2a17824b23674de2776e9103.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Falcon Assault (2026) เหยี่ยวล่าบุกระห่ำ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Falcon-Assault-2026-เหยี่ยวล่าบุกระห่ำ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/abc620f4784fc250e9bf6c56/abc620f4784fc250e9bf6c56.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Eat Pray Bark (2026) เมื่อน้องหมาพาไปฮีลใจ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Eat-Pray-Bark-2026-เมื่อน้องหมาพาไปฮีลใจ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/68e48be7fa50efefd6f69d73/68e48be7fa50efefd6f69d73.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Remarkably Bright Creatures (2026) อควาเรียมสำหรับคน หมึก และสิ่งของ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Remarkably-Bright-Creatures-2026-อควาเรียมสำหรับคน-หมึก-และสิ่งของ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/572da649123203ecec0f698d/572da649123203ecec0f698d.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Detective Dee Buddha’s Wrath (2026) ตี๋เหรินเจี๋ย เจดีย์สู่สวรรค์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Detective-Dee-Buddhas-Wrath-2026-ตี๋เหรินเจี๋ย-เจดีย์สู่สวรรค์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1f12409698de98cdb56cd828/1f12409698de98cdb56cd828.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Bunny!! (2026) บันนี่! หลุมรักอันตราย",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Bunny-2026-บันนี่-หลุมรักอันตราย-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/886a40ff594f156ddfcef985/886a40ff594f156ddfcef985.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Reminders of Him (2026) ร่องรอยรัก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Reminders-of-Him-2026-ร่องรอยรัก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Clika (2026) คลิกา ฝ่าชะตาล่าฝัน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Clika-2026-คลิกา-ฝ่าชะตาล่าฝัน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/f7f2f431b82ea3f7a26d7086/f7f2f431b82ea3f7a26d7086.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Protector (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Protector-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d2628ffbd349cd60a5788ee2/d2628ffbd349cd60a5788ee2.m3u8"
+          "name": "[HD | ซับไทย] Son In Law (2026) ลูกเขยคนโปรด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Son-In-Law-2026-ลูกเขยคนโปรด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d9e55749463a98bd28cc90a5/d9e55749463a98bd28cc90a5.m3u8"
         },
         {
           "name": "[HD | ซับไทย] The Singers (2026) ผู้ขับขานเพลงชีวิต",
@@ -883,64 +568,29 @@
           "url": "https://main.24playerhd.com/newplaylist/f33092b2a518f5d2422a4df9/f33092b2a518f5d2422a4df9.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] This is I (2026) นี่คือตัวฉัน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/This-is-I-2026-นี่คือตัวฉัน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/7f39b6446cc67bc833988632/7f39b6446cc67bc833988632.m3u8"
+          "name": "[HD | ซับไทย] Code Guardian (2026) ผู้คุ้มกันพิเศษ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Code-Guardian-2026-ผู้คุ้มกันพิเศษ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fa647d518ffc84a8d382a15f/fa647d518ffc84a8d382a15f.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] The Sheep Detectives (2026) แก๊งแกะรอย ยอดนักสืบ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Sheep-Detectives-2026-แก๊งแกะรอย-ยอดนักสืบ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/fbde735ebab0a66344d8a2b4/fbde735ebab0a66344d8a2b4.m3u8"
+          "name": "[HD | ซับไทย] Strangers in the Park (2026) คนแปลกหน้าในสวน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Strangers-in-the-Park-2026-คนแปลกหน้าในสวน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0038714ddbb9debbce04af2d/0038714ddbb9debbce04af2d.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Made in Korea (2026) สร้างฝันในเกาหลี",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Made-in-Korea-2026-สร้างฝันในเกาหลี-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/54bd81fb16aa3e91314990a0/54bd81fb16aa3e91314990a0.m3u8"
+          "name": "[HD | พากย์ไทย] Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) โมบิลสูท กันดั้ม ฮาธาเวย์ เดอะ ซอร์เซอรี ออฟ นิมฟ์ เซอร์ซี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mobile-Suit-Gundam-Hathaway-The-Sorcery-of-Nymph-Circe-2026-โมบิลสูท-กันดั้ม-ฮาธาเวย์-เดอะ-ซอร์เซอรี-ออฟ-นิมฟ์-เซอร์ซี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/34d60f656f5bf16c7945177e/34d60f656f5bf16c7945177e.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Lee Cronins The Mummy (2026) ลี โครนิน เดอะ มัมมี่",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lee-Cronins-The-Mummy-2026-ลี-โครนิน-เดอะ-มัมมี่-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/70aabb340b4a43205337a85e/70aabb340b4a43205337a85e.m3u8"
+          "name": "[HD | พากย์ไทย] The Mandalorian and Grogu (2026) แมนดาลอเรี่ยนและโกรกู",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Mandalorian-and-Grogu-2026-แมนดาลอเรี่ยนและโกรกู-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/704368a02a6ab5e0ebdd201b/704368a02a6ab5e0ebdd201b.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Soul-Guiding Lantern 2 (2026) โคมไฟดูดวิญญาณ 2",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Soul-Guiding-Lantern-2-2026-โคมไฟดูดวิญญาณ-2-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/1eaea508e6bf71ddfe6b520c/1eaea508e6bf71ddfe6b520c.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Back to the Past (2026) เจาะเวลาหาจิ๋นซี เดอะมูฟวี่",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Back-to-the-Past-2026-เจาะเวลาหาจิ๋นซี-เดอะมูฟวี่-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/b785f90f928ee459972c358b/b785f90f928ee459972c358b.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] BREAK THROUGH (2026) ฝ่าแดนสงครามนรก",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/BREAK-THROUGH-2026-ฝ่าแดนสงครามนรก-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/5513d5d06da7761b9b92aca6/5513d5d06da7761b9b92aca6.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Scream 7 (2026) หวีดสุดขีด 7",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Scream-7-2026-หวีดสุดขีด-7-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/3f11aaede4f55f2b8a16bf55/3f11aaede4f55f2b8a16bf55.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Balls Up (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Balls-Up-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/ddc66d94840facf06ff4d5ee/ddc66d94840facf06ff4d5ee.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] Amaravathiki Aahvanam (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Amaravathiki-Aahvanam-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/55a6eb47131dec1c894ab7d0/55a6eb47131dec1c894ab7d0.m3u8"
-        },
-        {
-          "name": "[HD | ซับไทย] In the Blink of an Eye (2026)",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/In-the-Blink-of-an-Eye-2026-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/307e0b750547dbadc0c448a6/307e0b750547dbadc0c448a6.m3u8"
-        },
-        {
-          "name": "[HD | พากย์ไทย] Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Hoppers-2026-เด้งโดด-เปลี่ยนโหมดเป็นบีเวอร์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/44c314ae5007160869d21587/44c314ae5007160869d21587.m3u8"
+          "name": "[HD | พากย์ไทย] Kartavya (2026) หน้าที่เหนือชีวิต",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Kartavya-2026-หน้าที่เหนือชีวิต-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/3a465fcddaa2c91dc243b523/3a465fcddaa2c91dc243b523.m3u8"
         },
         {
           "name": "[HD | ซับไทย] Stay (2025)",
@@ -948,9 +598,109 @@
           "url": "https://main.24playerhd.com/newplaylist/67e34a6b419150f5e530baa6/67e34a6b419150f5e530baa6.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Beast (2026) บีสต์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Beast-2026-บีสต์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/6503636be508bf2d52911d8c/6503636be508bf2d52911d8c.m3u8"
+          "name": "[HD | ซับไทย] Stepdaddy (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Stepdaddy-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/762bfeef51f5c5fea89f2f59/762bfeef51f5c5fea89f2f59.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Mavka The True Myth (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mavka-The-True-Myth-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/cd7906da482ea40722a00134/cd7906da482ea40722a00134.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Shocking Kungfu Of HUO’s (2026) ยอดกังฟูปราบอธรรม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Shocking-Kungfu-Of-HUOs-2026-ยอดกังฟูปราบอธรรม-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0e62cbf6d36b72d437d65d19/0e62cbf6d36b72d437d65d19.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Funky (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Funky-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/359a6495ad4356813e80d523/359a6495ad4356813e80d523.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Dhurandhar The Revenge (2026) ปฏิบัติการกล้าสนั่นเมือง แค้นเดือดไร้ปรานี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Dhurandhar-The-Revenge-2026-ปฏิบัติการกล้าสนั่นเมือง-แค้นเดือดไร้ปรานี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fa3af439e8b9c19defb827b2/fa3af439e8b9c19defb827b2.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] BTS the Comeback Live Arirang (2026) ไลฟ์สด การกลับมาของ BTS Arirang",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/BTS-the-Comeback-Live-Arirang-2026-ไลฟ์สด-การกลับมาของ-BTS-Arirang-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/66728ddde7ce8a821d9d7b41/66728ddde7ce8a821d9d7b41.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] México 1986 (2026) เม็กซิโก 1986",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Mexico-1986-2026-เม็กซิโก-1986-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1aa407565d00eb9aaea40065/1aa407565d00eb9aaea40065.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] How to Make a Killing (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/How-to-Make-a-Killing-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0b097f31cd664be5df5f693a/0b097f31cd664be5df5f693a.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Colony (2026) ยึดร่างคลั่ง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Colony-2026-ยึดร่างคลั่ง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/eded5de9785d301e6fd7f76a/eded5de9785d301e6fd7f76a.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Angel Flight The Movie (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Angel-Flight-The-Movie-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/7272e0639aa76a7efd046595/7272e0639aa76a7efd046595.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] No Place to Be Single (2026) เมืองนี้ไม่มีที่ให้คนโสด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/No-Place-to-Be-Single-2026-เมืองนี้ไม่มีที่ให้คนโสด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d967efc1e19423eabdbc2c80/d967efc1e19423eabdbc2c80.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Accused (2026) ใต้เงาคำกล่าวหา",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Accused-2026-ใต้เงาคำกล่าวหา-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/04f464560a3f8a20d9ed093a/04f464560a3f8a20d9ed093a.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Di Renjie of Extraordinary Flowers On The Faramita (2026) ตี๋เหรินเจี๋ย ดอกพลับพลึงแดนพิศวง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Di-Renjie-of-Extraordinary-Flowers-On-The-Faramita-2026-ตี๋เหรินเจี๋ย-ดอกพลับพลึงแดนพิศวง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/297fe5215dbff38e3eb8977a/297fe5215dbff38e3eb8977a.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Gundam Wing The Endless Waltz (1998) บันทึกการยุทธ์บทใหม่ กันดั้มวิง เอนด์เลส วอลซ์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Gundam-Wing-The-Endless-Waltz-1998-บันทึกการยุทธ์บทใหม่-กันดั้มวิง-เอนด์เลส-วอลซ์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0d1f49c4642b1012d47e8170/0d1f49c4642b1012d47e8170.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Mortal Kombat II (2026) มอร์ทัล คอมแบท 2",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Mortal-Kombat-II-2026-มอร์ทัล-คอมแบท-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a66997e5e6e09a60c7eeecfd/a66997e5e6e09a60c7eeecfd.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Scary Movie 6 (2026) ยำหนังจี้ 6",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Scary-Movie-6-2026-ยำหนังจี้-6-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/39476a25218f1e93b7e56dfb/39476a25218f1e93b7e56dfb.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Murder of Rachel Nickell (2026) คดีฆาตกรรมเรเชล นิกเคลล์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/The-Murder-of-Rachel-Nickell-2026-คดีฆาตกรรมเรเชล-นิกเคลล์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2226386d36e05786a35cfc37/2226386d36e05786a35cfc37.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Pegasus 3 (2026) ซัดสุดแรง แซงเต็มสปีด 3",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Pegasus-3-2026-ซัดสุดแรง-แซงเต็มสปีด-3-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/67526389b45f87ab4be524ca/67526389b45f87ab4be524ca.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Super Mario Galaxy Movie (2026) เดอะ ซูเปอร์ มาริโอ กาแล็คซี่ มูฟวี่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Super-Mario-Galaxy-Movie-2026-เดอะ-ซูเปอร์-มาริโอ-กาแล็คซี่-มูฟวี่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/00fdb07976fbbf6b7eb11b8f/00fdb07976fbbf6b7eb11b8f.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Dreadful (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Dreadful-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/36c5c47e9bfe510dc1dc555e/36c5c47e9bfe510dc1dc555e.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Ikkis (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Ikkis-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/552a8834a6b2f58e531a8947/552a8834a6b2f58e531a8947.m3u8"
         },
         {
           "name": "[HD | พากย์ไทย] In the Grey (2026) เหลี่ยมจารชน คนเหนือเทา",
@@ -958,14 +708,49 @@
           "url": "https://main.24playerhd.com/newplaylist/0dfe85e71ad45df2c34786eb/0dfe85e71ad45df2c34786eb.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] The Kings Warden (2026) ดันจง ราชันย์นักโทษแห่งชองนยองโพ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Kings-Warden-2026-ดันจง-ราชันย์นักโทษแห่งชองนยองโพ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d7120d536a161856a50848a0/d7120d536a161856a50848a0.m3u8"
+          "name": "[HD | ซับไทย] Swallowed Star Showdown on Primeval Star (2026) มหาศึกล้างพิภพ ตอน ศึกชี้ชะตาแห่งดาวบุพกาล",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Swallowed-Star-Showdown-on-Primeval-Star-2026-มหาศึกล้างพิภพ-ตอน-ศึกชี้ชะตาแห่งดาวบุพกาล-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/e1d96cc4ef116889c2cbae4a/e1d96cc4ef116889c2cbae4a.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Him (2025) ตำนานคนจริง",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Him-2025-ตำนานคนจริง-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/ceb1f625e08c09ea09fccee8/ceb1f625e08c09ea09fccee8.m3u8"
+          "name": "[HD | ซับไทย] Untold Chess Mates (2026) คู่แข่งหมากรุก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Untold-Chess-Mates-2026-คู่แข่งหมากรุก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/75df8e534f3d3e91c17d1119/75df8e534f3d3e91c17d1119.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Kraken (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Kraken-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/bf2dfdb5ccf177267eb3777e/bf2dfdb5ccf177267eb3777e.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Yogi Da (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Yogi-Da-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/ec16801afa1aa02f5ce25714/ec16801afa1aa02f5ce25714.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Remarkably Bright Creatures (2026) อควาเรียมสำหรับคน หมึก และสิ่งของ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Remarkably-Bright-Creatures-2026-อควาเรียมสำหรับคน-หมึก-และสิ่งของ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/572da649123203ecec0f698d/572da649123203ecec0f698d.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Border 2 (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Border-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d4a1ecfdcc4751eea63e03f8/d4a1ecfdcc4751eea63e03f8.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Huckster (2026) หอร้อยราตรี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Huckster-2026-หอร้อยราตรี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/3e9a915364b250849377b77a/3e9a915364b250849377b77a.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Ustaad Bhagat Singh (2026) ภคัต สิงห์ ยอดคนผดุงความยุติธรรม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Ustaad-Bhagat-Singh-2026-ภคัต-สิงห์-ยอดคนผดุงความยุติธรรม-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f9e8ea3449358c885a527666/f9e8ea3449358c885a527666.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Enchanting Cranium Mystery (2026) สาวงามในบันทึกเรื่องประหลาด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Enchanting-Cranium-Mystery-2026-สาวงามในบันทึกเรื่องประหลาด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/287add3a71c795fcf232f9ab/287add3a71c795fcf232f9ab.m3u8"
         },
         {
           "name": "[HD | พากย์ไทย] Agent Zeta (2026) เซต้า ปริศนาจารชน",
@@ -973,39 +758,264 @@
           "url": "https://main.24playerhd.com/newplaylist/f216f3a46d017b1decb4a270/f216f3a46d017b1decb4a270.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] 5 Centimeters Per Second (2026) ยามซากุระร่วงโรย",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/5-Centimeters-Per-Second-2026-ยามซากุระร่วงโรย-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/86790a3408923efcd265c4ce/86790a3408923efcd265c4ce.m3u8"
+          "name": "[HD | พากย์ไทย] My Dearest Señorita (2026) ซินญอริต้าที่รัก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/My-Dearest-Senorita-2026-ซินญอริต้าที่รัก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/46adcc5418f0effa95c134b9/46adcc5418f0effa95c134b9.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Obsession (2026) สาปรักคลั่งหลอน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Obsession-2026-สาปรักคลั่งหลอน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/deb9432e8f5a4e0de49c80de/deb9432e8f5a4e0de49c80de.m3u8"
+          "name": "[HD | ซับไทย] The Magic Faraway Tree (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Magic-Faraway-Tree-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/3ee41a595b071e339df18060/3ee41a595b071e339df18060.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Firebreak (2026) ดับไฟอารมณ์",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Firebreak-2026-ดับไฟอารมณ์-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d63adbcf81cff5d78fab4060/d63adbcf81cff5d78fab4060.m3u8"
+          "name": "[HD | ซับไทย] Biker (2026) ไบเกอร์ ซิ่งเดือดสายเลือดนักบิด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Biker-2026-ไบเกอร์-ซิ่งเดือดสายเลือดนักบิด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/883c2625db13933e386408d2/883c2625db13933e386408d2.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Love Me Love Me (2026) รักนะ รักฉัน",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Love-Me-Love-Me-2026-รักนะ-รักฉัน-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/087ef7e3e40b6018aaab0b21/087ef7e3e40b6018aaab0b21.m3u8"
+          "name": "[HD | ซับไทย] The Lotto Winner (2026) เดอะ ล็อตโต้ วินเนอร์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/The-Lotto-Winner-2026-เดอะ-ล็อตโต้-วินเนอร์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/34a2c910990c8cd2a1268c08/34a2c910990c8cd2a1268c08.m3u8"
         },
         {
-          "name": "[HD | ซับไทย] Mardaani 3 (2026) หญิงเหล็กล่าทมิฬ 3",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Mardaani-3-2026-หญิงเหล็กล่าทมิฬ-3-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/d5f0d67377ed0b935f933e65/d5f0d67377ed0b935f933e65.m3u8"
+          "name": "[HD | พากย์ไทย] Under Current (2026) ใต้เงามรณะ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Under-Current-2026-ใต้เงามรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/66df2220ebf1bc9a7a0ec848/66df2220ebf1bc9a7a0ec848.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Omukade (2025) โอมุคาเดะ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Omukade-2025-โอมุคาเดะ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/0b46c8d84c7c152641028d2b/0b46c8d84c7c152641028d2b.m3u8"
+          "name": "[HD | พากย์ไทย] Jamie Vardy (2026) เจมี่ วาร์ดี้",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Jamie-Vardy-2026-เจมี่-วาร์ดี้-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a71165797052fa3da80727fe/a71165797052fa3da80727fe.m3u8"
         },
         {
-          "name": "[HD | พากย์ไทย] Peaky Blinders The Immortal Man (2026) พีกี้ ไบลน์เดอร์ส ชายผู้เป็นอมตะ",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Peaky-Blinders-The-Immortal-Man-2026-พีกี้-ไบลน์เดอร์ส-ชายผู้เป็นอมตะ-300x450.png",
-          "url": "https://main.24playerhd.com/newplaylist/653811e8dae7be011fafa09d/653811e8dae7be011fafa09d.m3u8"
+          "name": "[HD | ซับไทย] Hellfire (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Hellfire-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/aae115fb8bdab0b00accc32f/aae115fb8bdab0b00accc32f.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Punisher One Last Kill (2026) เดอะ พันนิชเชอร์ ฆ่าทิ้งทวน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Punisher-One-Last-Kill-2026-เดอะ-พันนิชเชอร์-ฆ่าทิ้งทวน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/51f7c79de3cb6ad3e871d1b7/51f7c79de3cb6ad3e871d1b7.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Blades of The Guardians (2026) ยอดยุทธ์ดาบพิทักษ์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Blades-of-The-Guardians-2026-ยอดยุทธ์ดาบพิทักษ์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2647de4ec6eddb05334bc049/2647de4ec6eddb05334bc049.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Normal (2026) เมืองธรรมดานรกเรียกพ่อ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Normal-2025-เมืองธรรมดานรกเรียกพ่อ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0c3e2891c9732884569bc65a/0c3e2891c9732884569bc65a.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] This is I (2026) นี่คือตัวฉัน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/This-is-I-2026-นี่คือตัวฉัน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/7f39b6446cc67bc833988632/7f39b6446cc67bc833988632.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Office Romance (2026) ปิ๊งรักในออฟฟิศ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Office-Romance-2026-ปิ๊งรักในออฟฟิศ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/ba2883b319051e1f847046f1/ba2883b319051e1f847046f1.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Beast (2026) บีสต์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Beast-2026-บีสต์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/6503636be508bf2d52911d8c/6503636be508bf2d52911d8c.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Protector (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Protector-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d2628ffbd349cd60a5788ee2/d2628ffbd349cd60a5788ee2.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Truth and Tragedy of Moriah Wilson (2026) ความจริงและโศกนาฏกรรมของโมไรอาห์ วิลสัน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Truth-and-Tragedy-of-Moriah-Wilson-2026-ความจริงและโศกนาฏกรรมของโมไรอาห์-วิลสัน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1def9a9779ff1c6ab0f0e844/1def9a9779ff1c6ab0f0e844.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Primate (2026) ลิงคลั่งพันธุ์ดิบ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Primate-2026-ลิงคลั่งพันธุ์ดิบ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/c79b8b16ffbeb8676cd569fd/c79b8b16ffbeb8676cd569fd.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Whistle (2026) หวีดเรียกผี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Whistle-2026-หวีดเรียกผี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/9e9e7970292168604dad2121/9e9e7970292168604dad2121.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Bluff (2026) ชำระแค้นราชินีโจรสลัด",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Bluff-2026-ชำระแค้นราชินีโจรสลัด-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/384da866868579816a09875e/384da866868579816a09875e.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Loved One (2026) คนนี้… ที่รัก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Loved-One-2026-คนนี้.-ที่รัก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/37081e30cdd2f60221778c5e/37081e30cdd2f60221778c5e.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Tom Clancys Jack Ryan Ghost War (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a5590420cae4b11254ce5a3f/a5590420cae4b11254ce5a3f.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Send Help (2026) โปรดส่งใครมาช่วยฉันที",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Send-Help-2026-โปรดส่งใครมาช่วยฉันที-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/df1a06561560c2b91effe4f9/df1a06561560c2b91effe4f9.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Louis Theroux Inside the Manosphere (2026) หลุยส์ เทอโรซ์ เจาะโลกยุคใหม่ของชายนิยม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Louis-Theroux-Inside-the-Manosphere-2026-หลุยส์-เทอโรซ์-เจาะโลกยุคใหม่ของชายนิยม-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/6bc229ef5170c35b4c46c034/6bc229ef5170c35b4c46c034.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Crime-101-2025-เส้นทางปล้นโคตรระห่ำ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/c1e874c612ab096310bd5f3f/c1e874c612ab096310bd5f3f.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Feel My Voice (2026) สัมผัสแห่งเสียง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Feel-My-Voice-2026-สัมผัสแห่งเสียง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1285c0f3a62f3152c6fc44a2/1285c0f3a62f3152c6fc44a2.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] War Machine (2026) สงครามจักรกลถล่มโลก",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/War-Machine-2026-สงครามจักรกลถล่มโลก-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2ca33e5cbde1d7e0bcd0f74b/2ca33e5cbde1d7e0bcd0f74b.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] GOAT (2026) คุณแพะหัวใจไม่แพ้",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/GOAT-2026-คุณแพะหัวใจไม่แพ้-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b33129e2b71c65041a3d614e/b33129e2b71c65041a3d614e.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] State of Fear (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/State-of-Fear-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/34f8641dedcca7a21e4602ff/34f8641dedcca7a21e4602ff.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Swat Angels In Mission (2026) ภารกิจนางฟ้าหน่วยสวาท",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Swat-Angels-In-Mission-2026-ภารกิจนางฟ้าหน่วยสวาท-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1ce323d1cf333bc3d0a29bef/1ce323d1cf333bc3d0a29bef.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Master so Dragon Subduing Palms (2026) ซูช่าน 2 ฝ่ามือพิชิตมังกร",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Master-so-Dragon-Subduing-Palms-2026-ซูช่าน-2-ฝ่ามือพิชิตมังกร-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/566695fe6591e32ad0530d50/566695fe6591e32ad0530d50.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Chum (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Chum-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/cdfdd84e5b379274f7194bfe/cdfdd84e5b379274f7194bfe.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] 18th Rose (2026) กุหลาบแรกแย้ม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/18th-Rose-2026-กุหลาบแรกแย้ม-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/7eb4ee5c1363573ca1a1099b/7eb4ee5c1363573ca1a1099b.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Michael (2026) ไมเคิล",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Michael-2026-ไมเคิล-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/204be3d07ebb6aa7b91db07b/204be3d07ebb6aa7b91db07b.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Subedaar (2026) ซูเบดาร์ ล้างบางอธรรม",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Subedaar-2026-ซูเบดาร์-ล้างบางอธรรม-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/c71cedc1a58cf007108c1e5a/c71cedc1a58cf007108c1e5a.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Suppaleehuan (2026) สรรพลี้หวน",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Suppaleehuan-2026-สรรพลี้หวน-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/3323eacd87a5e22ce44c4ff2/3323eacd87a5e22ce44c4ff2.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Poldi (2026) พรินซ์โพลดี้แห่งโคโลญ เส้นทางชีวิตนักเตะ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/Poldi-2026-พรินซ์โพลดี้แห่งโคโลญ-เส้นทางชีวิตนักเตะ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/9a6648944130defe85cdcb84/9a6648944130defe85cdcb84.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Mudborn (2026) หุ่นดินผี",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Mudborn-2026-หุ่นดินผี-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/718de6c3912c82a06b4c3008/718de6c3912c82a06b4c3008.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] The Sheep Detectives (2026) แก๊งแกะรอย ยอดนักสืบ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Sheep-Detectives-2026-แก๊งแกะรอย-ยอดนักสืบ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/fbde735ebab0a66344d8a2b4/fbde735ebab0a66344d8a2b4.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Giant Falls (2026) พ่อยักษ์สั่งลา",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/The-Giant-Falls-2026-พ่อยักษ์สั่งลา-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/d2f5e235423f7f134118e2f4/d2f5e235423f7f134118e2f4.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Humint (2026) เกมจารชนคนในเงา",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Humint-2026-เกมจารชนคนในเงา-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/46c9c798b0f4cdaf760d152d/46c9c798b0f4cdaf760d152d.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Amaravathiki Aahvanam (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Amaravathiki-Aahvanam-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/55a6eb47131dec1c894ab7d0/55a6eb47131dec1c894ab7d0.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Huntsman (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Huntsman-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/9f9960ce12b557f96be08b27/9f9960ce12b557f96be08b27.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Pillion (2026) คนข้างหลัง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Pillion-2026-คนข้างหลัง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0eafb6cb73b9f88373105c27/0eafb6cb73b9f88373105c27.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Ladies First (2026) ตื่นมาอีกที โลกนี้ผู้หญิงใหญ่",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Ladies-First-2026-ตื่นมาอีกที-โลกนี้ผู้หญิงใหญ่-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2f4909cfa7a3bd4758168a73/2f4909cfa7a3bd4758168a73.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Sawsawan (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Sawsawan-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/0c5ac831a33796f5274b217f/0c5ac831a33796f5274b217f.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] JieLing (2026) แหวนศักดิ์สิทธิ์",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/JieLing-2026-แหวนศักดิ์สิทธิ์-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/74fb9e50dd7b89626ac15ed4/74fb9e50dd7b89626ac15ed4.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Joe’s College Road Trip (2026) โร้ดทริปป่วนกับคุณปู่โจ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Joes-College-Road-Trip-2026-โร้ดทริปป่วนกับคุณปู่โจ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b4a454038c8a93ea8530c85d/b4a454038c8a93ea8530c85d.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Shelter (2026) คลั่งนรก หลบตาย",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/Shelter-2026-คลั่งนรก-หลบตาย-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1d1ca47ef68dcb4ae721e859/1d1ca47ef68dcb4ae721e859.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] System (2026) ยุติธรรมนำทาง",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/06/System-2026-ยุติธรรมนำทาง-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/f23b7d02d4ddc244daf69aba/f23b7d02d4ddc244daf69aba.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Project Hail Mary (2026) ภารกิจกู้สุริยะ",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Project-Hail-Mary-2026-ภารกิจกู้สุริยะ-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/b5d27a738f89dc08ae48bc8d/b5d27a738f89dc08ae48bc8d.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] Soul-Guiding Lantern 2 (2026) โคมไฟดูดวิญญาณ 2",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Soul-Guiding-Lantern-2-2026-โคมไฟดูดวิญญาณ-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/1eaea508e6bf71ddfe6b520c/1eaea508e6bf71ddfe6b520c.m3u8"
+        },
+        {
+          "name": "[HD | ซับไทย] The Way to You (2026)",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/02/The-Way-to-You-2026-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/762509fdb8fe7db2c454de6c/762509fdb8fe7db2c454de6c.m3u8"
+        },
+        {
+          "name": "[HD | พากย์ไทย] Panor 2 (2026) พนอ 2",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Panor-2-2026-พนอ-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/2ea7d8b80003ab7f82374a66/2ea7d8b80003ab7f82374a66.m3u8"
         }
       ]
     }
